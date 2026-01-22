@@ -58,6 +58,7 @@ export default function AdBanner({ placement, className = '' }: AdBannerProps) {
   // This way ad placement areas are always defined
 
   const handleClick = () => {
+    if (!ad) return;
     // Track click
     fetch(`/api/ads/${ad.id}/click`, { method: 'POST' });
   };
@@ -80,7 +81,7 @@ export default function AdBanner({ placement, className = '' }: AdBannerProps) {
       <div className="absolute top-2 right-2 z-10">
         <span className="text-xs text-neutral-500 uppercase font-bold px-2 py-1 bg-black/50 rounded">Ad</span>
       </div>
-      
+
       {isVideo ? (
         ad.link ? (
           <Link href={ad.link} target="_blank" rel="noopener noreferrer" onClick={handleClick} className="block">
