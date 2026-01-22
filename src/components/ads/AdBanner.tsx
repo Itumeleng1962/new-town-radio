@@ -86,7 +86,7 @@ export default function AdBanner({ placement, className = '' }: AdBannerProps) {
         ad.link ? (
           <Link href={ad.link} target="_blank" rel="noopener noreferrer" onClick={handleClick} className="block">
             <video
-              src={ad.videoUrl}
+              src={ad.videoUrl!}
               autoPlay
               loop
               muted
@@ -97,7 +97,7 @@ export default function AdBanner({ placement, className = '' }: AdBannerProps) {
           </Link>
         ) : (
           <video
-            src={ad.videoUrl}
+            src={ad.videoUrl!}
             autoPlay
             loop
             muted
