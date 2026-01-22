@@ -25,3 +25,5 @@ export async function savePublicUpload(file: File, folder = "uploads") {
   return `/${folder}/${filename}`;
 }
 
+// Alias for backward compatibility
+export const saveUploadedFile = savePublicUpload;
