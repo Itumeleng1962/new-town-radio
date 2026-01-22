@@ -1,0 +1,337 @@
+{
+    "nav": {
+        "listenLive": "Yingisela Sweswi",
+        "schedule": "Xedyulu",
+        "shows": "Minkombiso",
+        "events": "Matirhelo",
+        "blog": "Blog",
+        "about": "Hi hina",
+        "contact": "Tihlanganise na hina",
+        "shop": "Xitolo",
+        "login": "Nghena",
+        "signUp": "Tsalisa",
+        "dashboard": "Dashboard",
+        "notifications": "Switiviso",
+        "signOut": "Huma",
+        "menu": "Menyu",
+        "viewDashboard": "Vona Dashboard"
+    },
+    "notifications": {
+        "title": "Switiviso",
+        "description": "Lawula swilemukiso swa wena na leswi u switsakelaka.",
+        "preferences": "Leswi u switsakelaka",
+        "newShows": "Minkombiso Leyintshwa",
+        "events": "Matirhelo",
+        "promotions": "Mintirho",
+        "mentions": "Leswi boxiweke",
+        "savePreferences": "Hlayisa Leswi u switsakelaka",
+        "savedSuccess": "Switiviso leswi u switsakelaka swi hlayisiwile!",
+        "recent": "Switiviso swa Sweswinyana",
+        "viewAllHistory": "Vona Matimu Hinkwawo",
+        "empty": "A kuna switiviso sweswi"
+    },
+    "events": {
+        "title": "Matirhelo Lama Taka",
+        "noEventsTitle": "A kuna Matirhelo Lama Taka",
+        "noEventsMessage": "Vuyela ku nga ri khale ku vona switiviso leswintshwa!",
+        "ticketsAvailable": "Mathikithi Ya Kumeka",
+        "freeEntry": "Ku Nghena Mahala",
+        "buyTickets": "Xava Mathikithi",
+        "infoOnly": "Vuxokoxoko Ntsena"
+    },
+    "home": {
+        "hero": {
+            "liveNow": "Hi Kona Sweswi",
+            "titlePart1": "Mpfumawulo",
+            "titlePart2": "Wa Doroba",
+            "subtitle": "Ndhavuko wa le hansi, vuyimbeleri, na ku haxa ka vaaki 24/7 ku suka embilwini ya Johannesburg"
+        },
+        "onAir": {
+            "now": "Emoyeni Sweswi",
+            "with": "na",
+            "tuneIn": "Yingisela"
+        },
+        "stats": {
+            "monthlyListeners": "Vayingiseri va N'hweti",
+            "originalShows": "Minkombiso yo Sungula",
+            "liveBroadcasting": "Ku Haxa hi ku Kongoma",
+            "independent": "Tiyimele"
+        },
+        "featured": {
+            "title": "Leswi Hlawuriweke",
+            "shows": "Minkombiso",
+            "subtitle": "Kusuka eka hip-hop kuya eka jazz, tipolitiki kuya eka vutlhokovetseri. Kuma marito lama vumbaka ndhavuko wa hina.",
+            "listenNow": "Yingisela Sweswi",
+            "viewAll": "Vona Minkombiso Hinkwayo"
+        },
+        "events": {
+            "title": "Lama Taka",
+            "eventsTitle": "Matirhelo",
+            "subtitle": "Hlangana na hina. Tiworkshop, tikhonsati, na minhlangano ya vaaki.",
+            "rsvpFree": "RSVP Mahala",
+            "getTickets": "Kuma Mathikithi",
+            "viewAll": "Vona Matirhelo Hinkwawo"
+        },
+        "why": {
+            "title": "Hikwalaho Ka Yini",
+            "newtownRadio": "Newtown Radio?",
+            "independentTitle": "Tiyimele",
+            "independentDesc": "A kuna vaseketeri va tikhamphani. A kuna swinavetiso. Ntsena swilo swo tenga.",
+            "communityTitle": "Yifambisiwa hi Vaaki",
+            "communityDesc": "Hi vanhu, eka vanhu. Rito ra wena ri na nkoka laha.",
+            "diverseTitle": "Marito yo Hambana",
+            "diverseDesc": "Kusuka eka hip-hop kuya eka jazz, tipolitiki kuya eka vutlhokovetseri. Un'wana na un'wana u na platifomu.",
+            "evolvingTitle": "Yi Tshamela ku Kula",
+            "evolvingDesc": "Minkombiso leyintshwa, marito lamantshwa, miehleketo leyintshwa. A hi yimi ku kula."
+        },
+        "membership": {
+            "title": "Seketeri Radio leyi Tiyimeleke",
+            "desc": "Joyina vaaki va hina lava seketelaka. Kuma swivono swo hlawuleka, ku yingisela handle ka swinavetiso, na ku hi pfuna ku tshama emoyeni.",
+            "button": "Vana Xirho",
+            "donate": "Endla Munyikelo"
+        },
+        "newsletter": {
+            "title": "Tshama U Tiva",
+            "desc": "Kuma vuxokoxoko bya vhiki na vhiki hi minkombiso leyintshwa, matirhelo, na swilo swo hlawuleka.",
+            "placeholder": "email@yawena.com",
+            "button": "Tsalisa"
+        }
+    },
+    "listen": {
+        "liveAir": "Emoyeni Hi Ku Kongoma",
+        "liveNow": "HI KONA SWESWI",
+        "hero": {
+            "title": "Newtown",
+            "radio": "Radio",
+            "desc": "Ku haxa hi ku kongoma 24/7. Mbilu ya doroba.",
+            "listen": "Yingisela Hi Ku Kongoma"
+        },
+        "recent": {
+            "title": "Ku Haxa ka Sweswinyana",
+            "empty": "A kuna swiyenge swa sweswinyana leswi hlayisiweke."
+        }
+    },
+    "schedule": {
+        "title": "Xedyulu ya Ku Haxa",
+        "empty": {
+            "title": "Xedyulu Ya Pfuxetiwa",
+            "desc": "Vahumelerisi va hina va le ku hetiseni xedyulu leyintshwa."
+        },
+        "card": {
+            "with": "Yi Rhekhodiwile/Hi Ku Kongoma na",
+            "view": "Vona Vuxokoxoko"
+        }
+    },
+    "shows": {
+        "title": "Ya Hina",
+        "showsTitle": "Minkombiso",
+        "desc": "Kuma marito lama vumbaka ndhavuko wa hina. Kusuka eka hip-hop kuya eka jazz, tipolitiki kuya eka thekinoloji.",
+        "searchPlaceholder": "Lavisu minkombiso kumbe vahaxi...",
+        "tba": "TBA",
+        "viewShow": "Vona Minkombiso",
+        "empty": "A kuna minkombiso leyi kumiweke.",
+        "genre": {
+            "all": "Hinkwaswo",
+            "music": "Vuyimbeleri"
+        }
+    },
+    "showDetail": {
+        "with": "na",
+        "listenLive": "Yingisela Hi Ku Kongoma",
+        "share": "Avelana",
+        "aboutTitle": "Mayelana na Nkombo",
+        "episodesTitle": "Swiyenge swa Sweswinyana",
+        "hostTitle": "Muhaxi wa Wena",
+        "viewProfile": "Vona Phrofayili",
+        "subscribeTitle": "U Nga Tshuki U N'wiwa hi Xiyenge",
+        "subscribeDesc": "Tsalisa ku tivisiwa loko swiyenge swintshwa swi huma.",
+        "subscribeButton": "Tsalisa"
+    },
+    "blog": {
+        "title": "Mahungu &",
+        "culture": "Ndhavuko",
+        "subtitle": "Matimu ku suka embilwini ya vuyimbeleri na ndhavuko wa Johannesburg.",
+        "featured": "Leswi Hlawuriweke",
+        "loadMore": "Layicha Tiathikili Tin'wana",
+        "categories": {
+            "all": "Hinkwaswo",
+            "musicCulture": "Ndhavuko wa Vuyimbeleri",
+            "behindScenes": "Endzhaku ka Swivono",
+            "interviews": "Miburisano",
+            "opinion": "Mavonelo"
+        }
+    },
+    "about": {
+        "hero": {
+            "since": "Kusukela 2010",
+            "title": "Rungula",
+            "story": "Ra Hina",
+            "desc": "Ku haxa mbilu ya ndhavuko wa le hansi wa Johannesburg emisaveni."
+        },
+        "mission": {
+            "title": "Xikongomelo &",
+            "vision": "Xivono",
+            "missionTitle": "Xikongomelo xa Hina",
+            "missionDesc": "Ku nyika platifomu eka marito na mipfumawulo leyi nga yimeriwangiki kahle, ku aka vaaki va misava hinkwayo lava hlanganisiweke hi rirhandzu ra vuyimbeleri bya ntiyiso na ndhavuko lowu tiyimeleke.",
+            "visionTitle": "Xivono xa Hina",
+            "visionDesc": "Ku va xitichi xa radio lexi tiyimeleke lexi rhangela emisaveni, lexi tiviwaka hi ku tlula mindzhalakana, ku kuma talenta leyintshwa, na ku tumbuluxa ku hlanganisa ka ndhavuko loku nga na mongo."
+        },
+        "team": {
+            "title": "Hlangana na",
+            "teamTitle": "Xipano",
+            "desc": "Marito na miehleketo leyi nga na hiseko endzhaku ka xitichi.",
+            "viewAll": "Vona Vahaxi Hinkwavo"
+        },
+        "partners": {
+            "title": "Vatirhisani",
+            "partnersTitle": "Va Hina",
+            "interested": "U na thahaselo ro tirhisana na hina?",
+            "button": "Vana Mutirhisani"
+        }
+    },
+    "contact": {
+        "title": "Tihlanganise",
+        "touch": "Na Hina",
+        "subtitle": "Xana u na xivutiso, ku rhumela demo, kumbe u lava ku buku muhaxi? Ha yingisela.",
+        "form": {
+            "title": "Hi rhumelele rungula",
+            "firstName": "Vito",
+            "lastName": "Xivongo",
+            "email": "Adirese ya Imeyili",
+            "inquiryType": "Muxaka wa Xivutiso",
+            "types": {
+                "general": "Xivutiso xa Ntolovelo",
+                "booking": "Xivutiso xo Bukha (Matirhelo/Vahaxi)",
+                "music": "Ku Rhumela Vuyimbeleri",
+                "advertising": "Swinavetiso",
+                "feedback": "Mbuyelo"
+            },
+            "message": "Rungula",
+            "send": "Rhumela Rungula",
+            "sentSuccess": "Rungula ri rhumeriwile! Hi ta vuyela eka wena ku nga ri khale."
+        },
+        "info": {
+            "title": "Vuxokoxoko byo Tihlanganisa",
+            "addressTitle": "Adirese ya Studio",
+            "address": "123 Pulse Avenue, Newtown<br />Johannesburg, 2001<br />South Africa",
+            "emailTitle": "Hi Rhumelele Imeyili",
+            "callTitle": "Hi Belele"
+        },
+        "social": {
+            "follow": "Hi Landzelele"
+        },
+        "location": {
+            "title": "Ndhawu ya Studio"
+        }
+    },
+    "topBar": {
+        "liveFrom": "Hi ku kongoma ku suka eJohannesburg",
+        "broadcasting": "Ku Haxa 24/7",
+        "advertising": "Swinavetiso"
+    },
+    "footer": {
+        "tagline": "Mpfumawulo wa Doroba",
+        "description": "Ku haxa ndhavuko wa le hansi, vuyimbeleri, na vaaki 24/7 ku suka embilwini ya Johannesburg.",
+        "quickLinks": "Swikanhi swa Xihatla",
+        "connect": "Tihlanganise",
+        "newsletter": "Phepha-hungu",
+        "newsletterText": "Tshama u tiva hi minkombiso ya hina leyintshwa, matirhelo, na vuyimbeleri.",
+        "emailPlaceholder": "Nghenisa imeyili ya wena",
+        "subscribe": "Tsalisa",
+        "rights": "Timfanelo hinkwato ti hlayisiwile.",
+        "privacy": "Pholisi ya Xihundla",
+        "terms": "Migingiriko ya Vutirheli"
+    },
+    "player": {
+        "nowPlaying": "Yi Tlanga Sweswi",
+        "play": "Tlanga",
+        "pause": "Yimisa",
+        "volume": "Vholumu",
+        "mute": "Miyeta",
+        "unmute": "Pfula Mpfumawulo"
+    },
+    "cart": {
+        "cart": "Golonyi",
+        "yourCart": "Golonyi ya Wena",
+        "empty": "Golonyi ya wena yi lo hwalala",
+        "continueShopping": "Yana emahlweni u Xava",
+        "subtotal": "Ntsengo",
+        "checkout": "Hakela",
+        "remove": "Susa",
+        "quantity": "Bunyingi"
+    },
+    "shop": {
+        "store": "Xitolo",
+        "description": "Impahla ya ximfumo ya Newtown Radio. Seketeri ku haxa loku tiyimeleke.",
+        "comingSoon": "Xitolo Xi Ta Ku Nga Ri Khale",
+        "stockingShelves": "Vaxavisi va le ku tateni ka-shelufu!",
+        "addToCart": "Nghenisa eGolonyini",
+        "addedToCart": "swi nghenisiwile egolonyini!",
+        "itemDescription": "Khwalithi ya xiyimo xa le henhla {category} hi brand ya Newtown Radio."
+    },
+    "common": {
+        "loading": "Ya Layicha...",
+        "error": "Xihoxo",
+        "success": "Ku humelela",
+        "close": "Pfala",
+        "save": "Hlayisa",
+        "cancel": "Khansela",
+        "delete": "Sula",
+        "edit": "Lulamisa",
+        "search": "Lavisa",
+        "searchPlaceholder": "Lavisa...",
+        "viewMore": "Vona Swin'wana",
+        "readMore": "Hlayi Swin'wana",
+        "learnMore": "Dyondza Swin'wana"
+    },
+    "auth": {
+        "email": "Imeyili",
+        "password": "Phasiwedi",
+        "confirmPassword": "Tiyisisa Phasiwedi",
+        "name": "Vito",
+        "forgotPassword": "U rivele Phasiwedi?",
+        "noAccount": "A wu na akhawunti?",
+        "hasAccount": "U na akhawunti?",
+        "signInHere": "Nghena laha",
+        "signUpHere": "Tsalisa laha"
+    },
+    "dashboard": {
+        "welcome": "Amukela",
+        "myAccount": "Akhawunti ya Mina",
+        "manageProfile": "Lawula phrofayili ya wena, vulungu, na leswi u switsakelaka.",
+        "memberSince": "Xirho ku sukela",
+        "unreadNotifications": "switiviso leswi nga hlayiwangiki",
+        "changePassword": "Cinca Phasiwedi",
+        "logOut": "Huma",
+        "profile": "Phrofayili",
+        "settings": "Maalo",
+        "orders": "Ti-oda",
+        "favorites": "Leswi rhandziwaka",
+        "membershipBilling": "Vulungu & Ku Hakela",
+        "privacySecurity": "Xihundla & Vuhlayiseki",
+        "profileSettings": "Maalo ya Phrofayili",
+        "changeAvatar": "Cinca Avatar",
+        "displayName": "Vito ro Kombisa",
+        "saveChanges": "Hlayisa Ku Cinca",
+        "currentPlan": "Pulant ya Sweswi",
+        "vipAccess": "Ku Fikelela ka VIP",
+        "renewsOn": "Yi pfuxetiwa hi",
+        "mo": "/n'hweti",
+        "savedPaymentMethods": "Tindlela to Hakela leti Hlayisiweke",
+        "expires": "Yi hela",
+        "addNewMethod": "Nghenisa Ndlela Leyintshwa",
+        "notificationPreferences": "Leswi u switsakelaka swa Switiviso",
+        "notificationDescription": "Hlawula leswaku hi kwihi ku pfuxetiwa loku u lavaka ku ku kuma.",
+        "managePreferences": "Lawula Leswi u switsakelaka hi Vuxokoxoko",
+        "youHave": "U na",
+        "lastChanged": "Cinciwile ro hetelela",
+        "update": "Pfuxeta",
+        "dataPrivacy": "Data & Xihundla",
+        "readPrivacy": "Hlaya Pholisi ya Xihundla",
+        "readTerms": "Hlaya Migingiriko ya Vutirheli"
+    },
+    "language": {
+        "selectLanguage": "Hlawula Ririmi",
+        "language": "Ririmi"
+    }
+}

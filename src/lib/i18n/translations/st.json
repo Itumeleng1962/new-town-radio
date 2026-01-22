@@ -1,0 +1,337 @@
+{
+    "nav": {
+        "listenLive": "Mamela Jwale",
+        "schedule": "Shedule",
+        "shows": "Diprogramo",
+        "events": "Diketso",
+        "blog": "Blog",
+        "about": "Mabapi le Rona",
+        "contact": "Ikopanye",
+        "shop": "Lebenkele",
+        "login": "Kena",
+        "signUp": "Ingodise",
+        "dashboard": "Dashboard",
+        "notifications": "Ditsebiso",
+        "signOut": "Tswa",
+        "menu": "Menu",
+        "viewDashboard": "Sheba Dashboard"
+    },
+    "notifications": {
+        "title": "Ditsebiso",
+        "description": "Laola ditemoso le dikgetho tsa hao.",
+        "preferences": "Dikgetho",
+        "newShows": "Diprogramo Tse Ntjha",
+        "events": "Diketso",
+        "promotions": "Diphahlo",
+        "mentions": "Ditsumbulo",
+        "savePreferences": "Boloka Dikgetho",
+        "savedSuccess": "Dikgetho tsa ditsebiso di bolokilwe!",
+        "recent": "Ditsebiso Tsa Morao",
+        "viewAllHistory": "Sheba Nalane Yote",
+        "empty": "Ha ho na ditsebiso hajoale"
+    },
+    "events": {
+        "title": "Diketso Tse Tlang",
+        "noEventsTitle": "Ha Ho Na Diketso Tse Tlang",
+        "noEventsMessage": "Kgutla haufinyane bakeng sa ditsebiso tse ntjha!",
+        "ticketsAvailable": "Ditekete Di Teng",
+        "freeEntry": "Keno Mahala",
+        "buyTickets": "Reka Ditekete",
+        "infoOnly": "Tlhahisoleseding Feela"
+    },
+    "home": {
+        "hero": {
+            "liveNow": "Phelang Jwale",
+            "titlePart1": "Modumo",
+            "titlePart2": "Wa Toropo",
+            "subtitle": "Setso sa lefatse, mmino, le phatlalatso ya setjhaba 24/7 ho tswa pelong ya Johannesburg"
+        },
+        "onAir": {
+            "now": "E Moyeng Jwale",
+            "with": "le",
+            "tuneIn": "Mamela"
+        },
+        "stats": {
+            "monthlyListeners": "Bamameli ba Kgwedi",
+            "originalShows": "Diprogramo tsa Pele",
+            "liveBroadcasting": "Phatlalatso e Phelang",
+            "independent": "Ikemetse"
+        },
+        "featured": {
+            "title": "E Kgethilweng",
+            "shows": "Diprogramo",
+            "subtitle": "Ho tloha hip-hop ho ya jazz, dipolotiki ho ya dithothokisong. Fumana mantswe a bopang setso sa rona.",
+            "listenNow": "Mamela Jwale",
+            "viewAll": "Sheba Diprogramo Tsohle"
+        },
+        "events": {
+            "title": "Tse Tlang",
+            "eventsTitle": "Diketso",
+            "subtitle": "Eba le rona. Dithupelo, dikonsarete, le dipokano tsa setjhaba.",
+            "rsvpFree": "RSVP Mahala",
+            "getTickets": "Fumana Ditekete",
+            "viewAll": "Sheba Diketso Tsohle"
+        },
+        "why": {
+            "title": "Hobaneng",
+            "newtownRadio": "Newtown Radio?",
+            "independentTitle": "Ikemetse",
+            "independentDesc": "Ha ho bafani ba dikhamphani. Ha ho dipapatso. Dikahare tse hloekileng feela.",
+            "communityTitle": "E Tsamaiswa ke Setjhaba",
+            "communityDesc": "Ka batho, bakeng sa batho. Lentswe la hao le bohlokwa mona.",
+            "diverseTitle": "Mantswe a Fapaneng",
+            "diverseDesc": "Ho tloha hip-hop ho ya jazz, dipolotiki ho ya dithothokisong. Motho e mong le e mong o na le sethala.",
+            "evolvingTitle": "E Dula e Fetoha",
+            "evolvingDesc": "Diprogramo tse ntjha, mantswe a matjha, mehopolo e metjha. Ha re kgaotse hohola."
+        },
+        "membership": {
+            "title": "Tshehetsa Radio e Ikemetseng",
+            "desc": "Eba karolo ya setjhaba sa rona sa batshehetsi. Fumana melemo e ikgethang, ho mamela ntle le dipapatso, mme o re thuse ho dula moyeng.",
+            "button": "Eba Setho",
+            "donate": "Etsa Monehelo"
+        },
+        "newsletter": {
+            "title": "Dula o Tseba",
+            "desc": "Fumana ditaba tsa beke le beke ka diprogramo tse ntjha, diketso, le dikahare tse ikgethang.",
+            "placeholder": "email@yaHao.com",
+            "button": "Ingodise"
+        }
+    },
+    "listen": {
+        "liveAir": "Moyeng Jwale",
+        "liveNow": "PHELANG JWALE",
+        "hero": {
+            "title": "Newtown",
+            "radio": "Radio",
+            "desc": "Phatlalatsa phelang 24/7. Pelo ya toropo.",
+            "listen": "Mamela Phelang"
+        },
+        "recent": {
+            "title": "Diphatlalatso tsa Morao",
+            "empty": "Ha ho di-episode tsa morao tse bolokilweng."
+        }
+    },
+    "schedule": {
+        "title": "Shedule ya Phatlalatso",
+        "empty": {
+            "title": "Shedule e ntse e nchafatswa",
+            "desc": "Bahlahisi ba rona ba phethela lenane le letjha."
+        },
+        "card": {
+            "with": "E Rekotilwe/Phelang le",
+            "view": "Sheba Dintlha"
+        }
+    },
+    "shows": {
+        "title": "Tsa Rona",
+        "showsTitle": "Diprogramo",
+        "desc": "Fumana mantswe a bopang setso sa rona. Ho tloha hip-hop ho ya jazz, dipolotiki ho ya thekenoloji.",
+        "searchPlaceholder": "Batla diprogramo kapa baamohedi...",
+        "tba": "TBA",
+        "viewShow": "Sheba Programo",
+        "empty": "Ha ho diprogramo tse funweng.",
+        "genre": {
+            "all": "Tsohle",
+            "music": "Mmino"
+        }
+    },
+    "showDetail": {
+        "with": "le",
+        "listenLive": "Mamela Phelang",
+        "share": "Arolelana",
+        "aboutTitle": "Mabapi le Programo",
+        "episodesTitle": "Di-episode tsa Morao",
+        "hostTitle": "Moamohedi wa Hao",
+        "viewProfile": "Sheba Profile",
+        "subscribeTitle": "Se Ke Wa Fosa Episode",
+        "subscribeDesc": "Ingodise ho fumana tsebiso ha di-episode tse ntjha di tswa.",
+        "subscribeButton": "Ingodise"
+    },
+    "blog": {
+        "title": "Ditaba &",
+        "culture": "Setso",
+        "subtitle": "Dipale tse tswang pelong ya mmino le setso sa Johannesburg.",
+        "featured": "E Kgethilweng",
+        "loadMore": "Laela Dingolwa Tse Eketsehileng",
+        "categories": {
+            "all": "Tsohle",
+            "musicCulture": "Setso sa Mmino",
+            "behindScenes": "Ka Mora Scenes",
+            "interviews": "Dibuísano",
+            "opinion": "Maikutlo"
+        }
+    },
+    "about": {
+        "hero": {
+            "since": "Ho tloha 2010",
+            "title": "Pale",
+            "story": "Ya Rona",
+            "desc": "Phatlalatsa pelo ya setso se ka tlasa lefatse sa Johannesburg ho lefatshe."
+        },
+        "mission": {
+            "title": "Thomo &",
+            "vision": "Pono",
+            "missionTitle": "Thomo Ya Rona",
+            "missionDesc": "Ho fana ka sethala bakeng sa mantswe le medumo e sa emelwang hantle, ho hodisa setjhaba sa lefatshe se kopaneng ka lerato la mmino wa nnete le setso se ikemetseng.",
+            "visionTitle": "Pono Ya Rona",
+            "visionDesc": "Ho ba seteišimi sa radio se ikemetseng se etellang pele lefatsheng, se tsejwang ka ho roba meedi, ho fumana talenta e ntjha, le ho theha dikgokahano tsa setso tse nang le moelelo."
+        },
+        "team": {
+            "title": "Kopana le",
+            "teamTitle": "Sehlopha",
+            "desc": "Mantswe le menahano e nang le tjheseho e bakang seteišimi.",
+            "viewAll": "Sheba Baamohedi Bohle"
+        },
+        "partners": {
+            "title": "Bakasane",
+            "partnersTitle": "Ba Rona",
+            "interested": "Na o na le thahasello ya ho sebetsa le rona?",
+            "button": "Eba Motswalle"
+        }
+    },
+    "contact": {
+        "title": "Kena",
+        "touch": "Kukhokhaneni",
+        "subtitle": "Na o na le potso, tlhahiso ya demo, kapa o batla ho behela moamohedi? Re a mamela.",
+        "form": {
+            "title": "Re romelle molaetsa",
+            "firstName": "Lebitso",
+            "lastName": "Fane",
+            "email": "Aterese ya Email",
+            "inquiryType": "Mofuta wa Dipotso",
+            "types": {
+                "general": "Potso Kakaretso",
+                "booking": "Potso ya Peeletso (Diketso/Baamohedi)",
+                "music": "Tlhahiso ya Mmino",
+                "advertising": "Papatso",
+                "feedback": "Maikutlo"
+            },
+            "message": "Molaetsa",
+            "send": "Romella Molaetsa",
+            "sentSuccess": "Molaetsa o rometswe! Re tla kgutlela ho wena haufinyane."
+        },
+        "info": {
+            "title": "Tlhahisoleseding ya Dikgokahano",
+            "addressTitle": "Aterese ya Studio",
+            "address": "123 Pulse Avenue, Newtown<br />Johannesburg, 2001<br />South Africa",
+            "emailTitle": "Re Romelle Email",
+            "callTitle": "Re letsetse"
+        },
+        "social": {
+            "follow": "Re latele"
+        },
+        "location": {
+            "title": "Sebaka sa Studio"
+        }
+    },
+    "topBar": {
+        "liveFrom": "Phelang ho tswa Johannesburg",
+        "broadcasting": "Phatlalatsa 24/7",
+        "advertising": "Papatso"
+    },
+    "footer": {
+        "tagline": "Modumo wa Toropo",
+        "description": "Phatlalatsa setso, mmino le setjhaba 24/7 ho tswa pelong ya Johannesburg.",
+        "quickLinks": "Dihokelo tse Potlakileng",
+        "connect": "Kopana",
+        "newsletter": "Koranta",
+        "newsletterText": "Dula o tseba ka diprogramo tsa rona tsa moraorao, diketso, le mmino.",
+        "emailPlaceholder": "Kenya email ya hao",
+        "subscribe": "Ingodise",
+        "rights": "Ditokelo tsohle di sireleditswe.",
+        "privacy": "Leano la Lekunutu",
+        "terms": "Melao ya Tshebeletso"
+    },
+    "player": {
+        "nowPlaying": "E Bapala Jwale",
+        "play": "Bapala",
+        "pause": "Kgutsa",
+        "volume": "Modumo",
+        "mute": "Thola",
+        "unmute": "Bula Modumo"
+    },
+    "cart": {
+        "cart": "Kariki",
+        "yourCart": "Kariki ya Hao",
+        "empty": "Kariki ya hao ha e na letho",
+        "continueShopping": "Tswela Pele ho Reka",
+        "subtotal": "Kakaretso",
+        "checkout": "Lefa",
+        "remove": "Tlosa",
+        "quantity": "Bongata"
+    },
+    "shop": {
+        "store": "Lebenkele",
+        "description": "Thepa ya semmuso ya Newtown Radio. Tshehetsa phatlalatso e ikemetseng.",
+        "comingSoon": "Lebenkele le Tla Haufinyane",
+        "stockingShelves": "Bamahwebi ba ntse ba tlatsa dishelefo!",
+        "addToCart": "Kenya Kariking",
+        "addedToCart": "e kentswe kariking!",
+        "itemDescription": "Boleng ba premium {category} ka lebitso la Newtown Radio."
+    },
+    "common": {
+        "loading": "E a laisha...",
+        "error": "Phoso",
+        "success": "Katleho",
+        "close": "Kwala",
+        "save": "Boloka",
+        "cancel": "Hlakola",
+        "delete": "Hlakola",
+        "edit": "Fetola",
+        "search": "Batla",
+        "searchPlaceholder": "Batla...",
+        "viewMore": "Sheba Tse Eketsehileng",
+        "readMore": "Bala Haholoanyane",
+        "learnMore": "Ithute Haholoanyane"
+    },
+    "auth": {
+        "email": "Email",
+        "password": "Password",
+        "confirmPassword": "Netefatsa Password",
+        "name": "Lebitso",
+        "forgotPassword": "O lebetse Password?",
+        "noAccount": "Ha o na akhaonto?",
+        "hasAccount": "O se o na le akhaonto?",
+        "signInHere": "Kena mona",
+        "signUpHere": "Ingodise mona"
+    },
+    "dashboard": {
+        "welcome": "Kamohelo",
+        "myAccount": "Akhaonto ya Ka",
+        "manageProfile": "Laola profile ya hao, boleng, le dikgetho.",
+        "memberSince": "Setho ho tloha",
+        "unreadNotifications": "ditsebiso tse sa balweng",
+        "changePassword": "Fetola Password",
+        "logOut": "Tswa",
+        "profile": "Profile",
+        "settings": "Disetings",
+        "orders": "Di-odara",
+        "favorites": "Tseo o di ratang",
+        "membershipBilling": "Boleng & Tefiso",
+        "privacySecurity": "Lekunutu & Tshireletso",
+        "profileSettings": "Disetings tsa Profile",
+        "changeAvatar": "Fetola Avatar",
+        "displayName": "Lebitso le Bonahalang",
+        "saveChanges": "Boloka Diphetoho",
+        "currentPlan": "Moralo wa Jwale",
+        "vipAccess": "Phihlello ya VIP",
+        "renewsOn": "E nchafatswa ka",
+        "mo": "/ka kgwedi",
+        "savedPaymentMethods": "Mekgwa ya Tefo e Bolokilweng",
+        "expires": "E fela",
+        "addNewMethod": "Kenya Mokgwa o Motjha",
+        "notificationPreferences": "Dikgetho tsa Ditsebiso",
+        "notificationDescription": "Kgetha hore na ke di-update dife tseo o batlang ho di fumana.",
+        "managePreferences": "Laola Dikgetho tse Felletseng",
+        "youHave": "O na le",
+        "lastChanged": "E fetotswe qetelo",
+        "update": "Nchafatsa",
+        "dataPrivacy": "Data & Lekunutu",
+        "readPrivacy": "Bala Leano la Lekunutu",
+        "readTerms": "Bala Melao ya Tshebeletso"
+    },
+    "language": {
+        "selectLanguage": "Kgetha Puo",
+        "language": "Puo"
+    }
+}

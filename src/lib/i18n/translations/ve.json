@@ -1,0 +1,337 @@
+{
+    "nav": {
+        "listenLive": "Thetshelesani Zwino",
+        "schedule": "Tshithedulu",
+        "shows": "Mbonyoloso",
+        "events": "Mitingo",
+        "blog": "Blog",
+        "about": "Nga ha Rine",
+        "contact": "Vhudavhidzani",
+        "shop": "Vhenkele",
+        "login": "Dzhenani",
+        "signUp": "Didinwadiseni",
+        "dashboard": "Dashboard",
+        "notifications": "Ndivhadzo",
+        "signOut": "Bvani",
+        "menu": "Menyu",
+        "viewDashboard": "Vhonani Dashboard"
+    },
+    "notifications": {
+        "title": "Ndivhadzo",
+        "description": "Langani ndivhadzo dza vhoi na zwine na  toda.",
+        "preferences": "Zwine na toda",
+        "newShows": "Mbonyoloso Dzinwa",
+        "events": "Mitingo",
+        "promotions": "Ndangulo",
+        "mentions": "Zwo ambiwaho",
+        "savePreferences": "Vhulungani Zwine na toda",
+        "savedSuccess": "Zwine na toda zwa ndivhadzo zwo vhulungiwa!",
+        "recent": "Ndivhadzo dza Zwino",
+        "viewAllHistory": "Vhonani Divhazwakale Yothe",
+        "empty": "A huna ndivhadzo zwino"
+    },
+    "events": {
+        "title": "Mitingo I Daho",
+        "noEventsTitle": "A Huna Mitingo I Daho",
+        "noEventsMessage": "Vhuyani hu si kale u vhona ndivhadzo dzinwa!",
+        "ticketsAvailable": "Mathikithi A Hone",
+        "freeEntry": "U Dzhena Ndi Mahala",
+        "buyTickets": "Re ngani Mathikithi",
+        "infoOnly": "Mafhungo Fhedzi"
+    },
+    "home": {
+        "hero": {
+            "liveNow": "Zwi khou bvelela Zwino",
+            "titlePart1": "Mubvumo",
+            "titlePart2": "Wa Dorobo",
+            "subtitle": "Mvelele ya fhasi, muzika, na khasho ya tshitshavha 24/7 u bva mbiluni ya Johannesburg"
+        },
+        "onAir": {
+            "now": "Moyani Zwino",
+            "with": "na",
+            "tuneIn": "Thetshelesani"
+        },
+        "stats": {
+            "monthlyListeners": "Vhathetshelesi nga Nwedzi",
+            "originalShows": "Mbonyoloso dza Vhukuma",
+            "liveBroadcasting": "Khasho I Tshilaho",
+            "independent": "Diimele"
+        },
+        "featured": {
+            "title": "Zwo Nanyiwa",
+            "shows": "Mbonyoloso",
+            "subtitle": "U bva kha hip-hop u ya kha jazz, politiki u ya kha vhurendi. Wanani maipfi a no vhumba mvelele yashu.",
+            "listenNow": "Thetshelesani Zwino",
+            "viewAll": "Vhonani Mbonyoloso Dzothe"
+        },
+        "events": {
+            "title": "Zwi Daho",
+            "eventsTitle": "Mitingo",
+            "subtitle": "Iyani na rine. Dziwekeshoppo, dzi khonsathi, na mitangano ya tshitshavha.",
+            "rsvpFree": "RSVP Mahala",
+            "getTickets": "Wanani Mathikithi",
+            "viewAll": "Vhonani Mitingo Yothe"
+        },
+        "why": {
+            "title": "Ndi Ngani",
+            "newtownRadio": "Newtown Radio?",
+            "independentTitle": "Diimele",
+            "independentDesc": "A huna vhatikedzi vha dzikhamphani. A huna kushambadza. Zwi re ngomu zwo kuna fhedzi.",
+            "communityTitle": "Zwiitwa nga Tshitshavha",
+            "communityDesc": "Nga vhathu, u itela vhathu. Ipfi lanu li a dzhielwa ntha hafha.",
+            "diverseTitle": "Maipfi a No Fhambana",
+            "diverseDesc": "U bva kha hip-hop u ya kha jazz, politiki u ya kha vhurendi. Munwe na munwe u na pulatifomo.",
+            "evolvingTitle": "Zwi Dzula Zwi Tshi Shanduka",
+            "evolvingDesc": "Mbonyoloso dzinwa, maipfi manwa, mihumbulo minwa. Ri nga si ime u aluwa."
+        },
+        "membership": {
+            "title": "Tikedzani Radio I Diimeleho",
+            "desc": "Iyani kha tshitshavha tshashu tsha vhatikedzi. Wanani zwithu zwo khetheaho, u thetshelesa hu sina kushambadza, na u ri thusa u dzula ri moyani.",
+            "button": "Ivha na Murado",
+            "donate": "Itani Muno"
+        },
+        "newsletter": {
+            "title": "Dzulani ni Tshi Divha",
+            "desc": "Wanani mafhungo a vhege nga vhege nga ha mbonyoloso dzinwa, mitingo, na zwi re ngomu zwo khetheaho.",
+            "placeholder": "email@yanu.com",
+            "button": "Didinwadiseni"
+        }
+    },
+    "listen": {
+        "liveAir": "Moyani Zwino",
+        "liveNow": "ZWI KHOU BVELELA ZWINO",
+        "hero": {
+            "title": "Newtown",
+            "radio": "Radio",
+            "desc": "Yo hasha i tshi tshila 24/7. Mbilu ya dorobo.",
+            "listen": "Thetshelesani I Tshi Tshila"
+        },
+        "recent": {
+            "title": "Khasho dza Zwino",
+            "empty": "A huna diepisode dza zwino dzo vhulungiwaho."
+        }
+    },
+    "schedule": {
+        "title": "Tshithedulu tsha Khasho",
+        "empty": {
+            "title": "Tshithedulu tshi khou Khwiniswa",
+            "desc": "Vhabveledzi vhashu vha khou fhedzisa mutevhe muswa."
+        },
+        "card": {
+            "with": "Yo Rekodiwa/I Tshilaho na",
+            "view": "Vhonani Zwidodombedzwa"
+        }
+    },
+    "shows": {
+        "title": "Yashu",
+        "showsTitle": "Mbonyoloso",
+        "desc": "Wanani maipfi a no vhumba mvelele yashu. U bva kha hip-hop u ya kha jazz, politiki u ya kha thekinolodzhi.",
+        "searchPlaceholder": "Todani mbonyoloso kana vhahashi...",
+        "tba": "TBA",
+        "viewShow": "Vhonani Mbonyoloso",
+        "empty": "A huna mbonyoloso dzo wanalaho.",
+        "genre": {
+            "all": "Yothe",
+            "music": "Muzika"
+        }
+    },
+    "showDetail": {
+        "with": "na",
+        "listenLive": "Thetshelesani I Tshi Tshila",
+        "share": "Kovhanani",
+        "aboutTitle": "Nga ha Mbonyoloso",
+        "episodesTitle": "Diepisode dza Zwino",
+        "hostTitle": "Muhashi Wanu",
+        "viewProfile": "Vhonani Phurofaele",
+        "subscribeTitle": "Ni Songa Fhira nga Episode",
+        "subscribeDesc": "Didinwadiseni u wana ndivhadzo musi diepisode dzinwa dzi tshi bva.",
+        "subscribeButton": "Didinwadiseni"
+    },
+    "blog": {
+        "title": "Mafhungo &",
+        "culture": "Mvelele",
+        "subtitle": "Zwitori zwi bvaho mbiluni ya muzika wa Johannesburg na mvelele.",
+        "featured": "Zwo Nanyiwa",
+        "loadMore": "Laitshani Dziathikili Dzinwe",
+        "categories": {
+            "all": "Yothe",
+            "musicCulture": "Mvelele ya Muzika",
+            "behindScenes": "Murahu ha Zwivhonwa",
+            "interviews": "Inthaviyu",
+            "opinion": "Kumbulelo"
+        }
+    },
+    "about": {
+        "hero": {
+            "since": "U bva 2010",
+            "title": "Tshitori",
+            "story": "Tshashu",
+            "desc": "U hasha mbilu ya mvelele ya fhasi ya Johannesburg kha lifhasi."
+        },
+        "mission": {
+            "title": "Mishumo &",
+            "vision": "Kumbulelo",
+            "missionTitle": "Mishumo Yashu",
+            "missionDesc": "U netshedza pulatifomu ya maipfi na mibvumo i sa imelelwiho zwavhudi, u fhata tshitshavha tsha lifhasi tsho tanganyiswaho nga lufuno lwa muzika wa vhukuma na mvelele yo diimeleho.",
+            "visionTitle": "Kumbulelo Lashu",
+            "visionDesc": "U vha tshititshi tsha radio tsho diimeleho tshi re phanda lifhasini, tshi divhiwaho nga u pwashekanya mikano, u wana dzitalente dzinwa, na u sika vhushaka ha mvelele vhu re na thalutshedzo."
+        },
+        "team": {
+            "title": "Tanganani na",
+            "teamTitle": "Tshigwada",
+            "desc": "Maipfi na mihumbulo i re na dzangalelo murahu ha tshititshi.",
+            "viewAll": "Vhonani Vhahashi Vhothe"
+        },
+        "partners": {
+            "title": "Vhafarisani",
+            "partnersTitle": "Vhashu",
+            "interested": "Ni na dzangalelo la u shuma na rine?",
+            "button": "Ivha Mufarisani"
+        }
+    },
+    "contact": {
+        "title": "Dzhenani",
+        "touch": "Kha Vhudavhidzani",
+        "subtitle": "Ni na mbudziso, u romela demo, kana ni toda u bukha muhashi? Ri a thetshelesa.",
+        "form": {
+            "title": "Ri romeleni mulaedza",
+            "firstName": "Dzina",
+            "lastName": "Tshifani",
+            "email": "Diresi ya Imeili",
+            "inquiryType": "Lushaka lwa Mbudziso",
+            "types": {
+                "general": "Mbudziso ya Zwa Vhukuma",
+                "booking": "Mbudziso ya Bukhingi (Mitingo/Vhahashi)",
+                "music": "U Romela Muzika",
+                "advertising": "Kushambadza",
+                "feedback": "Mbuyelo"
+            },
+            "message": "Mulaedza",
+            "send": "Romelani Mulaedza",
+            "sentSuccess": "Mulaedza wo romelwa! Ri do vhuya kha vhoi hu si kale."
+        },
+        "info": {
+            "title": "Mafhungo a Vhudavhidzani",
+            "addressTitle": "Diresi ya Studio",
+            "address": "123 Pulse Avenue, Newtown<br />Johannesburg, 2001<br />South Africa",
+            "emailTitle": "Ri Romeleni Imeili",
+            "callTitle": "Ri Founeleni"
+        },
+        "social": {
+            "follow": "Ri Tevheleni"
+        },
+        "location": {
+            "title": "Fhethu ha Studio"
+        }
+    },
+    "topBar": {
+        "liveFrom": "Zwi tshi tshila u bva Johannesburg",
+        "broadcasting": "Khasho 24/7",
+        "advertising": "Kushambadza"
+    },
+    "footer": {
+        "tagline": "Mubvumo wa Dorobo",
+        "description": "Khasho ya mvelele ya fhasi, muzika, na tshitshavha 24/7 u bva mbiluni ya Johannesburg.",
+        "quickLinks": "Dzhankho Dzi Tavhanyaho",
+        "connect": "Vhudavhidzani",
+        "newsletter": "Gurannda",
+        "newsletterText": "Dzulani ni tshi divha nga ha mbonyoloso dzashu dza zwino, mitingo, na muzika.",
+        "emailPlaceholder": "Nwalani imeili yanu",
+        "subscribe": "Didinwadiseni",
+        "rights": "Pfanelo dzothe dzo vhulungiwa.",
+        "privacy": "Polisi ya Phuraivhethi",
+        "terms": "Milayo ya Tshumelo"
+    },
+    "player": {
+        "nowPlaying": "Zwi Khou Tamba Zwino",
+        "play": "Tambani",
+        "pause": "Imani",
+        "volume": "Fholumu",
+        "mute": "Fhumudzani",
+        "unmute": "Bvisani U Fhumudza"
+    },
+    "cart": {
+        "cart": "Gariki",
+        "yourCart": "Gariki Yanu",
+        "empty": "Gariki yanu a i na tshithu",
+        "continueShopping": "Bvelani Phanda na U Reka",
+        "subtotal": "Thanganyelo",
+        "checkout": "Badela",
+        "remove": "Bvisani",
+        "quantity": "Tshivhalo"
+    },
+    "shop": {
+        "store": "Vhenkele",
+        "description": "Thundu ya tshiofisi ya Newtown Radio. Tikedzani khasho yo diimeleho.",
+        "comingSoon": "Vhenkele I Khou Da Hu Si Kale",
+        "stockingShelves": "Vhashambadzi vha khou dadza dzishelefo!",
+        "addToCart": "Dzhenisani kha Gariki",
+        "addedToCart": "zwo dzheniswa kha gariki!",
+        "itemDescription": "Khwalithi ya ntha {category} i re na brand ya Newtown Radio."
+    },
+    "common": {
+        "loading": "U Laitsha...",
+        "error": "Vhukhakhi",
+        "success": "Mvelaphanda",
+        "close": "Valani",
+        "save": "Vhulungi",
+        "cancel": "Kanselani",
+        "delete": "Phulani",
+        "edit": "Edithani",
+        "search": "Todani",
+        "searchPlaceholder": "Todani...",
+        "viewMore": "Vhonani Zwinwe",
+        "readMore": "Vhalani Zwinwe",
+        "learnMore": "Gudani Zwinwe"
+    },
+    "auth": {
+        "email": "Imeili",
+        "password": "Phasiwedi",
+        "confirmPassword": "Khwathisedzani Phasiwedi",
+        "name": "Dzina",
+        "forgotPassword": "No Hangwa Phasiwedi?",
+        "noAccount": "A ni na akhawunthu?",
+        "hasAccount": "Ni na akhawunthu?",
+        "signInHere": "Dzhenani hafha",
+        "signUpHere": "Didinwadiseni hafha"
+    },
+    "dashboard": {
+        "welcome": "Vho tanganedzwa",
+        "myAccount": "Akhawunthu Yanga",
+        "manageProfile": "Langani phurofaele yanu, vhurado, na zwine na toda.",
+        "memberSince": "Murado u bva",
+        "unreadNotifications": "ndivhadzo dzi songo vhaliwaho",
+        "changePassword": "Shandukisani Phasiwedi",
+        "logOut": "Bvani",
+        "profile": "Phurofaele",
+        "settings": "Zwiungudzi",
+        "orders": "Dzioda",
+        "favorites": "Zwine na zwi Funa",
+        "membershipBilling": "Vhurado & U Badela",
+        "privacySecurity": "Phuraivhethi & Tsireledzo",
+        "profileSettings": "Zwiungudzi zwa Phurofaele",
+        "changeAvatar": "Shandukisani Avatar",
+        "displayName": "Dzina li Vhonalaho",
+        "saveChanges": "Vhulungani Tshanduko",
+        "currentPlan": "Pulane ya Zwino",
+        "vipAccess": "U Dzhena ha VIP",
+        "renewsOn": "I vusuluswa nga",
+        "mo": "/nwedzi",
+        "savedPaymentMethods": "Ndhila dza U Badela dzo Vhulungiwaho",
+        "expires": "I fhela",
+        "addNewMethod": "Dzhenisani Ndhila Ntswa",
+        "notificationPreferences": "Zwine na Toda zwa Ndivhadzo",
+        "notificationDescription": "Khethani zwine na toda u wana.",
+        "managePreferences": "Langani Zwine na Toda zwo Dombedzwaho",
+        "youHave": "Ni na",
+        "lastChanged": "Yo shandukiswa lwa u fhedzisela",
+        "update": "Khwinisani",
+        "dataPrivacy": "Data & Phuraivhethi",
+        "readPrivacy": "Vhalani Polisi ya Phuraivhethi",
+        "readTerms": "Vhalani Milayo ya Tshumelo"
+    },
+    "language": {
+        "selectLanguage": "Khethani Luambo",
+        "language": "Luambo"
+    }
+}

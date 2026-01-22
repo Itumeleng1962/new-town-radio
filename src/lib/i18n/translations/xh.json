@@ -1,0 +1,337 @@
+{
+    "nav": {
+        "listenLive": "Mamela Ngqo",
+        "schedule": "Ishedyuli",
+        "shows": "Imiboniso",
+        "events": "Imisitho",
+        "blog": "Iblog",
+        "about": "Malunga Nathi",
+        "contact": "Qhagamshelana",
+        "shop": "Ivenkile",
+        "login": "Ngena",
+        "signUp": "Bhalisa",
+        "dashboard": "Idashbhodi",
+        "notifications": "Izaziso",
+        "signOut": "Phuma",
+        "menu": "Imenyu",
+        "viewDashboard": "Jonga Idashbhodi"
+    },
+    "notifications": {
+        "title": "Izaziso",
+        "description": "Lawula izilumkiso zakho kunye nezinto ozikhethayo.",
+        "preferences": "Izikhethwa",
+        "newShows": "Imiboniso Emitsha",
+        "events": "Imisitho",
+        "promotions": "Iintengiso",
+        "mentions": "Okuthethiweyo",
+        "savePreferences": "Gcina Izikhethwa",
+        "savedSuccess": "Izikhethwa zezaziso zigcinwe!",
+        "recent": "Izaziso Zakutsha nje",
+        "viewAllHistory": "Jonga Yonke Imbali",
+        "empty": "Akukho zaziso okwangoku"
+    },
+    "events": {
+        "title": "Imisitho Ezayo",
+        "noEventsTitle": "Akukho Misitho Ezayo",
+        "noEventsMessage": "Khangela kwakhona kungekudala ukufumana izaziso ezitsha!",
+        "ticketsAvailable": "Amatikiti Ayafumaneka",
+        "freeEntry": "Kungenwa Mahala",
+        "buyTickets": "Thenga Amatikiti",
+        "infoOnly": "Ulwazi Kuphela"
+    },
+    "home": {
+        "hero": {
+            "liveNow": "Kusenziwa Ngqo",
+            "titlePart1": "Isandi",
+            "titlePart2": "Sesixeko",
+            "subtitle": "Inkcubeko ephantsi, umculo, kunye nosasazo loluntu 24/7 ukusuka entliziyweni yaseRhawutini"
+        },
+        "onAir": {
+            "now": "Emajukujukwini Ngoku",
+            "with": "no",
+            "tuneIn": "Mamela"
+        },
+        "stats": {
+            "monthlyListeners": "Abamameli Ngenyanga",
+            "originalShows": "Imiboniso Yokuqala",
+            "liveBroadcasting": "Ukusasaza Ngqo",
+            "independent": "Ozimele"
+        },
+        "featured": {
+            "title": "Okubalulekileyo",
+            "shows": "Imiboniso",
+            "subtitle": "Ukusuka kwi-hip-hop ukuya kwi-jazz, ipolitiki ukuya kwimibongo. Fumanisa amazwi abumba inkcubeko yethu.",
+            "listenNow": "Mamela Ngoku",
+            "viewAll": "Jonga Yonke Imiboniso"
+        },
+        "events": {
+            "title": "Ezayo",
+            "eventsTitle": "Imisitho",
+            "subtitle": "Sijoyine. Iiworkshop, iikonsathi, kunye neendibano zoluntu.",
+            "rsvpFree": "RSVP Mahala",
+            "getTickets": "Fumana Amatikiti",
+            "viewAll": "Jonga Yonke Imisitho"
+        },
+        "why": {
+            "title": "Kutheni",
+            "newtownRadio": "Newtown Radio?",
+            "independentTitle": "Ozimele",
+            "independentDesc": "Akukho baxhasi beefem. Akukho zintengiso. Umxholo omsulwa, ongahluzwanga kuphela.",
+            "communityTitle": "Uqhutywa Luluntu",
+            "communityDesc": "Ngabantu, abantu. Ilizwi lakho libalulekile apha.",
+            "diverseTitle": "Amazwi Ahlukeneyo",
+            "diverseDesc": "Ukusuka kwi-hip-hop ukuya kwi-jazz, ipolitiki ukuya kwimibongo. Wonke umntu uneqonga.",
+            "evolvingTitle": "Iyakhula Njalo",
+            "evolvingDesc": "Imiboniso emitsha, amazwi amatsha, imibono emitsha. Asiyeki ukukhula."
+        },
+        "membership": {
+            "title": "Xhasa Unomathotholo Ozimele",
+            "desc": "Joyina umphakathi wethu wabasekeli. Fumana izibonelelo ezizodwa, ukumamela ngaphandle kweentengiso, kwaye usincede sihlale emoyeni.",
+            "button": "Yiba Lilungu",
+            "donate": "Yenza Umnikelo"
+        },
+        "newsletter": {
+            "title": "Hlala Usazi",
+            "desc": "Fumana uhlaziyo lweveki ngemiboniso emitsha, imisitho, kunye nomxholo okhethekileyo.",
+            "placeholder": "imeliyakho@u.com",
+            "button": "Bhalisa"
+        }
+    },
+    "listen": {
+        "liveAir": "Ngqo Emoyeni",
+        "liveNow": "KUSENZIWA NGQO",
+        "hero": {
+            "title": "Newtown",
+            "radio": "Radio",
+            "desc": "Isasaza ngqo 24/7. Ukubetha kwentliziyo yesixeko.",
+            "listen": "Mamela Ngqo"
+        },
+        "recent": {
+            "title": "Ukusasaza Kwakutsha nje",
+            "empty": "Akukho ziqendu zakutsha nje ezigciniweyo."
+        }
+    },
+    "schedule": {
+        "title": "Ishedyuli Yokusasaza",
+        "empty": {
+            "title": "Ishedyuli Iyahlaziywa",
+            "desc": "Abavelisi bethu bagqibezela uluhlu olutsha."
+        },
+        "card": {
+            "with": "Irekhodiwe/Ngqo no",
+            "view": "Jonga Iinkcukacha"
+        }
+    },
+    "shows": {
+        "title": "Zethu",
+        "showsTitle": "Imiboniso",
+        "desc": "Fumanisa amazwi abumba inkcubeko yethu. Ukusuka kwi-hip-hop ukuya kwi-jazz, ipolitiki ukuya kwitekhnoloji.",
+        "searchPlaceholder": "Khangela imiboniso okanye abaququzeleli...",
+        "tba": "TBA",
+        "viewShow": "Jonga Umboniso",
+        "empty": "Akukho miboniso ifunyenweyo.",
+        "genre": {
+            "all": "Konke",
+            "music": "Umculo"
+        }
+    },
+    "showDetail": {
+        "with": "no",
+        "listenLive": "Mamela Ngqo",
+        "share": "Yabelana",
+        "aboutTitle": "Malunga Nomboniso",
+        "episodesTitle": "Iziqendu Zakutsha nje",
+        "hostTitle": "Umququzeleli Wakho",
+        "viewProfile": "Jonga Iprofayile",
+        "subscribeTitle": "Ungaphoswa Sisiqendu",
+        "subscribeDesc": "Bhalisa ukuze waziswe xa kukho iziqendu ezitsha.",
+        "subscribeButton": "Bhalisa"
+    },
+    "blog": {
+        "title": "Iindaba &",
+        "culture": "Inkcubeko",
+        "subtitle": "Amabali asuka entliziyweni yaseRhawutini yomculo nenkcubeko.",
+        "featured": "Okufakiwe",
+        "loadMore": "Layisha Amanqaku Angakumbi",
+        "categories": {
+            "all": "Konke",
+            "musicCulture": "Inkcubeko Yomculo",
+            "behindScenes": "Ngasemva Kwezigcawu",
+            "interviews": "Udliwano-ndlebe",
+            "opinion": "Uluvo"
+        }
+    },
+    "about": {
+        "hero": {
+            "since": "Ukusukela ngo-2010",
+            "title": "Ibali",
+            "story": "Lethu",
+            "desc": "Ukusasaza ukubetha kwentliziyo yenkcubeko ephantsi yaseRhawutini emhlabeni."
+        },
+        "mission": {
+            "title": "Injongo &",
+            "vision": "Umbono",
+            "missionTitle": "Injongo Yethu",
+            "missionDesc": "Ukunika iqonga amazwi nezandi ezingamelwanga kakuhle, ukwakha uluntu lwehlabathi olumanyaniswe luthando lomculo wokwenyani nenkcubeko ezimeleyo.",
+            "visionTitle": "Umbono Wethu",
+            "visionDesc": "Ukuba sisikhululo sonomathotholo esizimeleyo esihamba phambili emhlabeni, esaziwa ngokwaphula imida, ukufumanisa italente entsha, nokudala uqhagamshelwano lwenkcubeko olunentsingiselo."
+        },
+        "team": {
+            "title": "Dibana",
+            "teamTitle": "Iqela",
+            "desc": "Amazwi kunye neengqondo ezinehlombe emva kwesikhululo.",
+            "viewAll": "Jonga Bonke Abaququzeleli"
+        },
+        "partners": {
+            "title": "Amaqabane",
+            "partnersTitle": "Ethu",
+            "interested": "Unomdla wokusebenzisana nathi?",
+            "button": "Yiba Liqabane"
+        }
+    },
+    "contact": {
+        "title": "Qhagamshelana",
+        "touch": "Nathi",
+        "subtitle": "Unombuzo, ufuna ukungenisa idemo, okanye ufuna ukubhukisha umququzeleli? Siyamamela.",
+        "form": {
+            "title": "Sithumele umyalezo",
+            "firstName": "Igama",
+            "lastName": "Ifani",
+            "email": "Idilesi ye-imeyile",
+            "inquiryType": "Uhlobo Lombuzo",
+            "types": {
+                "general": "Umbuzo Jikelele",
+                "booking": "Umbuzo Wokubhukisha (Imisitho/Abaququzeleli)",
+                "music": "Ukungeniswa Komculo",
+                "advertising": "Intengiso",
+                "feedback": "Ingxelo"
+            },
+            "message": "Umyalezo",
+            "send": "Thumela Umyalezo",
+            "sentSuccess": "Umyalezo uthunyelwe! Siza kubuyela kuwe kungekudala."
+        },
+        "info": {
+            "title": "Iinkcukacha zoQhagamshelwano",
+            "addressTitle": "Idilesi yeStudio",
+            "address": "123 Pulse Avenue, Newtown<br />Johannesburg, 2001<br />South Africa",
+            "emailTitle": "Sithumele i-imeyile",
+            "callTitle": "Sitsalele umnxeba"
+        },
+        "social": {
+            "follow": "Silandele"
+        },
+        "location": {
+            "title": "Indawo yeStudio"
+        }
+    },
+    "topBar": {
+        "liveFrom": "Ngqo ukusuka eRhawutini",
+        "broadcasting": "Isasaza 24/7",
+        "advertising": "Ukubhengeza"
+    },
+    "footer": {
+        "tagline": "Isandi seSixeko",
+        "description": "Isasaza inkcubeko ephantsi, umculo noluntu 24/7 ukusuka entliziyweni yaseRhawutini.",
+        "quickLinks": "Amakhonkco Akhawulezayo",
+        "connect": "Qhagamshelana",
+        "newsletter": "Incwadi yeendaba",
+        "newsletterText": "Hlala unolwazi ngemiboniso yethu yakutsha, imisitho kunye nomculo.",
+        "emailPlaceholder": "Faka i-imeyile yakho",
+        "subscribe": "Bhalisa",
+        "rights": "Onke amalungelo agciniwe.",
+        "privacy": "Umgaqo-nkqubo wabucala",
+        "terms": "Imigaqo yeNkonzo"
+    },
+    "player": {
+        "nowPlaying": "Idlala Ngoku",
+        "play": "Dlala",
+        "pause": "Nqumama",
+        "volume": "Ivolumu",
+        "mute": "Thulisa",
+        "unmute": "Vula Isandi"
+    },
+    "cart": {
+        "cart": "Inqwelo",
+        "yourCart": "Inqwelo Yakho",
+        "empty": "Inqwelo yakho ayinanto",
+        "continueShopping": "Qhubeka Uthenga",
+        "subtotal": "Itotali epheleleyo",
+        "checkout": "Bhatala",
+        "remove": "Susa",
+        "quantity": "Ubungakanani"
+    },
+    "shop": {
+        "store": "Ivenkile",
+        "description": "Impahla esemthethweni yeNewtown Radio. Xhasa usasazo oluzimeleyo.",
+        "comingSoon": "Ivenkile Iyeza Kungekudala",
+        "stockingShelves": "Abathengisi baxakeke bagcwalisa iishelufu!",
+        "addToCart": "Faka eNqwelweni",
+        "addedToCart": "ifakwe enqwelweni!",
+        "itemDescription": "Umgangatho ophezulu we {category} onophawu lweNewtown Radio."
+    },
+    "common": {
+        "loading": "Iyalayisha...",
+        "error": "Impazamo",
+        "success": "Impumelelo",
+        "close": "Vala",
+        "save": "Gcina",
+        "cancel": "Rhoxisa",
+        "delete": "Cima",
+        "edit": "Hlela",
+        "search": "Khangela",
+        "searchPlaceholder": "Khangela...",
+        "viewMore": "Jonga Okungakumbi",
+        "readMore": "Funda Okungakumbi",
+        "learnMore": "Funda Okungakumbi"
+    },
+    "auth": {
+        "email": "I-imeyile",
+        "password": "I-password",
+        "confirmPassword": "Qinisekisa I-password",
+        "name": "Igama",
+        "forgotPassword": "Uyibalele I-password?",
+        "noAccount": "Awunayo i-akhawunti?",
+        "hasAccount": "Sele unayo i-akhawunti?",
+        "signInHere": "Ngena apha",
+        "signUpHere": "Bhalisa apha"
+    },
+    "dashboard": {
+        "welcome": "Wamkelekile",
+        "myAccount": "I-akhawunti Yam",
+        "manageProfile": "Lawula iprofayile yakho, ubulungu, kunye nezinto ozikhethayo.",
+        "memberSince": "Ilungu ukusukela",
+        "unreadNotifications": "izaziso ezingafundwanga",
+        "changePassword": "Tshintsha I-password",
+        "logOut": "Phuma",
+        "profile": "Iprofayile",
+        "settings": "Izicwangciso",
+        "orders": "Ii-odolo",
+        "favorites": "Izintandokazi",
+        "membershipBilling": "Ubulungu & Intlawulo",
+        "privacySecurity": "Bucala & Ukhuseleko",
+        "profileSettings": "Izicwangciso Zeprofayile",
+        "changeAvatar": "Tshintsha iAvatar",
+        "displayName": "Igama lokuboniswa",
+        "saveChanges": "Gcina Utshintsho",
+        "currentPlan": "Isicwangciso Sangoku",
+        "vipAccess": "Ukufikelela kweVIP",
+        "renewsOn": "Ihlaziywa ngo",
+        "mo": "/ngenyanga",
+        "savedPaymentMethods": "Iindlela Zokubhatala Ezigciniweyo",
+        "expires": "Iphelelwa",
+        "addNewMethod": "Yongeza Indlela Entsha",
+        "notificationPreferences": "Izikhethwa Zezaziso",
+        "notificationDescription": "Khetha ukuba loluphi uhlaziyo ofuna ukulufumana.",
+        "managePreferences": "Lawula Izikhethwa Ezine nkcukacha",
+        "youHave": "Une",
+        "lastChanged": "Igcine ukutshintshwa",
+        "update": "Hlaziya",
+        "dataPrivacy": "Idata & Bucala",
+        "readPrivacy": "Funda Umgaqo-nkqubo Wabucala",
+        "readTerms": "Funda Imigaqo Yenkonzo"
+    },
+    "language": {
+        "selectLanguage": "Khetha Ulwimi",
+        "language": "Ulwimi"
+    }
+}

@@ -1,0 +1,337 @@
+{
+    "nav": {
+        "listenLive": "Luister Regstreeks",
+        "schedule": "Skedule",
+        "shows": "Programme",
+        "events": "Gebeurtenisse",
+        "blog": "Blog",
+        "about": "Oor Ons",
+        "contact": "Kontak",
+        "shop": "Winkel",
+        "login": "Teken In",
+        "signUp": "Registreer",
+        "dashboard": "Paneelbord",
+        "notifications": "Kennisgewings",
+        "signOut": "Teken Uit",
+        "menu": "Kieslys",
+        "viewDashboard": "Bekyk Paneelbord"
+    },
+    "notifications": {
+        "title": "Kennisgewings",
+        "description": "Bestuur jou waarskuwings en intekeningvoorkeure.",
+        "preferences": "Voorkeure",
+        "newShows": "Nuwe Programme",
+        "events": "Gebeurtenisse",
+        "promotions": "Promosies",
+        "mentions": "Vermeldings",
+        "savePreferences": "Stoor Voorkeure",
+        "savedSuccess": "Kennisgewing voorkeure gestoor!",
+        "recent": "Onlangse Kennisgewings",
+        "viewAllHistory": "Sien Hele Geskiedenis",
+        "empty": "Nog geen kennisgewings nie"
+    },
+    "events": {
+        "title": "Komende Gebeurtenisse",
+        "noEventsTitle": "Geen Komende Gebeurtenisse",
+        "noEventsMessage": "Kom loer binnekort weer in vir nuwe aankope!",
+        "ticketsAvailable": "Kaartjies Beskikbaar",
+        "freeEntry": "Gratis Toegang",
+        "buyTickets": "Koop Kaartjies",
+        "infoOnly": "Slegs Inligting"
+    },
+    "home": {
+        "hero": {
+            "liveNow": "Regstreeks Nou",
+            "titlePart1": "Die Klank",
+            "titlePart2": "Van Die Stad",
+            "subtitle": "Ondergrondse kultuur, musiek, en gemeenskapsuitsendings 24/7 van die hart van Johannesburg"
+        },
+        "onAir": {
+            "now": "Nou Op Die Lug",
+            "with": "met",
+            "tuneIn": "Skakel In"
+        },
+        "stats": {
+            "monthlyListeners": "Maandelikse Luisteraars",
+            "originalShows": "Oorspronklike Programme",
+            "liveBroadcasting": "Regstreekse Uitsening",
+            "independent": "Onafhanklik"
+        },
+        "featured": {
+            "title": "Uitgesoekte",
+            "shows": "Programme",
+            "subtitle": "Van hip-hop tot jazz, politiek tot poësie. Ontdek die stemme wat ons kultuur vorm.",
+            "listenNow": "Luister Nou",
+            "viewAll": "Kyk Alle Programme"
+        },
+        "events": {
+            "title": "Komende",
+            "eventsTitle": "Gebeurtenisse",
+            "subtitle": "Sluit by ons aan in die werklike lewe. Werkswinkels, konserte en gemeenskapsbyeenkomste.",
+            "rsvpFree": "RSVP Gratis",
+            "getTickets": "Kry Kaartjies",
+            "viewAll": "Sien Alle Gebeurtenisse"
+        },
+        "why": {
+            "title": "Hoekom",
+            "newtownRadio": "Newtown Radio?",
+            "independentTitle": "Onafhanklik",
+            "independentDesc": "Geen korporatiewe borge. Geen advertensies. Net suiwer, ongefiltreerde inhoud.",
+            "communityTitle": "Gemeenskapsgedrewe",
+            "communityDesc": "Deur die menses, vir die mense. Jou stem maak saak hier.",
+            "diverseTitle": "Diverse Stemme",
+            "diverseDesc": "Van hip-hop tot jazz, politiek tot poësie. Almal het 'n platform.",
+            "evolvingTitle": "Altyd Ontwikkelend",
+            "evolvingDesc": "Nuwe programme, nuwe stemme, nuwe perspektiewe. Ons hou nooit op groei nie."
+        },
+        "membership": {
+            "title": "Ondersteun Onafhanklike Radio",
+            "desc": "Sluit aan by ons gemeenskap van ondersteuners. Kry eksklusiewe voordele, advertensievrye luister, en help ons om op die lug te bly.",
+            "button": "Word 'n Lid",
+            "donate": "Maak 'n Skenking"
+        },
+        "newsletter": {
+            "title": "Bly Op Hoogte",
+            "desc": "Kry weeklikse opdaterings oor nuwe programme, gebeurtenisse en eksklusiewe inhoud.",
+            "placeholder": "jou@epos.com",
+            "button": "Teken In"
+        }
+    },
+    "listen": {
+        "liveAir": "Regstreeks Op Die Lug",
+        "liveNow": "REGSTREEKS NOU",
+        "hero": {
+            "title": "Newtown",
+            "radio": "Radio",
+            "desc": "Uitsaai regstreeks 24/7. Die hartklop van die stad.",
+            "listen": "Luister Regstreeks"
+        },
+        "recent": {
+            "title": "Onlangse Uitsendings",
+            "empty": "Geen onlangse episodes geargiveer nie."
+        }
+    },
+    "schedule": {
+        "title": "Uitsaaiskedule",
+        "empty": {
+            "title": "Skedule Word Opgedateer",
+            "desc": "Ons vervaardigers finaliseer die nuwe program."
+        },
+        "card": {
+            "with": "Opgeneem/Regstreeks met",
+            "view": "Sien Besonderhede"
+        }
+    },
+    "shows": {
+        "title": "Ons",
+        "showsTitle": "Programme",
+        "desc": "Ontdek die stemme wat ons kultuur vorm. Van hip-hop tot jazz, politiek tot tegnologie.",
+        "searchPlaceholder": "Soek programme of gashere...",
+        "tba": "TBA",
+        "viewShow": "Sien Program",
+        "empty": "Geen programme gevind volgens jou kriteria nie.",
+        "genre": {
+            "all": "Alle",
+            "music": "Musiek"
+        }
+    },
+    "showDetail": {
+        "with": "met",
+        "listenLive": "Luister Regstreeks",
+        "share": "Deel",
+        "aboutTitle": "Oor die Program",
+        "episodesTitle": "Onlangse Episodes",
+        "hostTitle": "Jou Gasheer",
+        "viewProfile": "Sien Profiel",
+        "subscribeTitle": "Moet Nooit 'n Episode Misloop Nie",
+        "subscribeDesc": "Teken in om in kennis gestel te word wanneer nuwe episodes vrygestel word.",
+        "subscribeButton": "Teken In"
+    },
+    "blog": {
+        "title": "Nuus &",
+        "culture": "Kultuur",
+        "subtitle": "Stories uit die hart van Johannesburg se musiek- en kultuurtoneel.",
+        "featured": "Uitgesonder",
+        "loadMore": "Laai Meer Artikels",
+        "categories": {
+            "all": "Alle",
+            "musicCulture": "Musiekkultuur",
+            "behindScenes": "Agter die Skerms",
+            "interviews": "Onderhoude",
+            "opinion": "Opinie"
+        }
+    },
+    "about": {
+        "hero": {
+            "since": "Sedert 2010",
+            "title": "Ons",
+            "story": "Storie",
+            "desc": "Uitsaai die hartklop van Johannesburg se ondergrondse kultuur aan die wêreld."
+        },
+        "mission": {
+            "title": "Missie &",
+            "vision": "Visie",
+            "missionTitle": "Ons Missie",
+            "missionDesc": "Om 'n platform te bied vir onderverteenwoordigde stemme en klanke, wat 'n wêreldwye gemeenskap kweek wat verenig is deur 'n liefde vir outentieke musiek en onafhanklike kultuur.",
+            "visionTitle": "Ons Visie",
+            "visionDesc": "Om die wêreld se toonaangewende onafhanklike radiostasie te wees, bekend vir die breek van grense, die ontdekking van nuwe talent en die skep van betekenisvolle kulturele verbindings."
+        },
+        "team": {
+            "title": "Ontmoet Die",
+            "teamTitle": "Span",
+            "desc": "Die passievolle stemme en geeste agter die stasie.",
+            "viewAll": "Sien Alle Gashere"
+        },
+        "partners": {
+            "title": "Ons",
+            "partnersTitle": "Vennote",
+            "interested": "Belangstel om met ons saam te werk?",
+            "button": "Word 'n Vennoot"
+        }
+    },
+    "contact": {
+        "title": "Kom In",
+        "touch": "Kontak",
+        "subtitle": "Het jy 'n vraag, demo-indiening, of wil jy 'n gasheer bespreek? Ons luister.",
+        "form": {
+            "title": "Stuur vir ons 'n boodskap",
+            "firstName": "Naam",
+            "lastName": "Van",
+            "email": "E-posadres",
+            "inquiryType": "Tipe Navraag",
+            "types": {
+                "general": "Algemene Navraag",
+                "booking": "Besprekingsnavraag (Gebeurtenisse/Gashere)",
+                "music": "Musiekindiening",
+                "advertising": "Advertering",
+                "feedback": "Terugvoer"
+            },
+            "message": "Boodskap",
+            "send": "Stuur Boodskap",
+            "sentSuccess": "Boodskap gestuur! Ons sal binnekort terugkom na jou toe."
+        },
+        "info": {
+            "title": "Kontakinligting",
+            "addressTitle": "Studio Adres",
+            "address": "123 Pulse Laan, Newtown<br />Johannesburg, 2001<br />Suid-Afrika",
+            "emailTitle": "E-pos Ons",
+            "callTitle": "Bel Ons"
+        },
+        "social": {
+            "follow": "Volg Ons"
+        },
+        "location": {
+            "title": "Studio Ligging"
+        }
+    },
+    "topBar": {
+        "liveFrom": "Regstreeks van Johannesburg",
+        "broadcasting": "Uitsaai 24/7",
+        "advertising": "Advertensies"
+    },
+    "footer": {
+        "tagline": "Klank van die Stad",
+        "description": "Uitsaai van ondergrondse kultuur, musiek en gemeenskap 24/7 vanuit die hart van Johannesburg.",
+        "quickLinks": "Vinnige Skakels",
+        "connect": "Koppel",
+        "newsletter": "Nuusbrief",
+        "newsletterText": "Bly op hoogte met ons nuutste programme, gebeurtenisse en musiek.",
+        "emailPlaceholder": "Voer jou e-pos in",
+        "subscribe": "Teken In",
+        "rights": "Alle regte voorbehou.",
+        "privacy": "Privaatheidsbeleid",
+        "terms": "Diensbepalings"
+    },
+    "player": {
+        "nowPlaying": "Speel Nou",
+        "play": "Speel",
+        "pause": "Pouse",
+        "volume": "Volume",
+        "mute": "Demp",
+        "unmute": "Ontdemp"
+    },
+    "cart": {
+        "cart": "Mandjie",
+        "yourCart": "Jou Mandjie",
+        "empty": "Jou mandjie is leeg",
+        "continueShopping": "Gaan voort met inkopies",
+        "subtotal": "Subtotaal",
+        "checkout": "Betaal",
+        "remove": "Verwyder",
+        "quantity": "Hoeveelheid"
+    },
+    "shop": {
+        "store": "Winkel",
+        "description": "Amptelike Newtown Radio handelsware. Ondersteun onafhanklike uitsaaiwese.",
+        "comingSoon": "Winkel Kom Binnekort",
+        "stockingShelves": "Bemarkers is besig om die rakke vol te maak!",
+        "addToCart": "Voeg by Mandjie",
+        "addedToCart": "by mandjie gevoeg!",
+        "itemDescription": "Premie kwaliteit {category} met kenmerkende Newtown Radio handelsmerk."
+    },
+    "common": {
+        "loading": "Laai...",
+        "error": "Fout",
+        "success": "Sukses",
+        "close": "Sluit",
+        "save": "Stoor",
+        "cancel": "Kanselleer",
+        "delete": "Skrap",
+        "edit": "Redigeer",
+        "search": "Soek",
+        "searchPlaceholder": "Soek...",
+        "viewMore": "Sien Meer",
+        "readMore": "Lees Meer",
+        "learnMore": "Leer Meer"
+    },
+    "auth": {
+        "email": "E-pos",
+        "password": "Wagwoord",
+        "confirmPassword": "Bevestig Wagwoord",
+        "name": "Naam",
+        "forgotPassword": "Wagwoord Vergeet?",
+        "noAccount": "Het jy nie 'n rekening nie?",
+        "hasAccount": "Het jy reeds 'n rekening?",
+        "signInHere": "Teken hier in",
+        "signUpHere": "Registreer hier"
+    },
+    "dashboard": {
+        "welcome": "Welkom",
+        "myAccount": "My Rekening",
+        "manageProfile": "Bestuur jou profiel, lidmaatskap en voorkeure.",
+        "memberSince": "Lid sedert",
+        "unreadNotifications": "ongelese kennisgewings",
+        "changePassword": "Verander Wagwoord",
+        "logOut": "Teken Uit",
+        "profile": "Profiel",
+        "settings": "Instellings",
+        "orders": "Bestellings",
+        "favorites": "Gunstelinge",
+        "membershipBilling": "Lidmaatskap & Fakturering",
+        "privacySecurity": "Privaatheid & Sekuriteit",
+        "profileSettings": "Profiel Stellings",
+        "changeAvatar": "Verander Avatar",
+        "displayName": "Vertoonnaam",
+        "saveChanges": "Stoor Veranderinge",
+        "currentPlan": "Huidige Plan",
+        "vipAccess": "BBP Toegang",
+        "renewsOn": "Hernu op",
+        "mo": "/pm",
+        "savedPaymentMethods": "Gestoorde Betaalmetodes",
+        "expires": "Verval",
+        "addNewMethod": "Voeg Nuwe Metode By",
+        "notificationPreferences": "Kennisgewing Voorkeure",
+        "notificationDescription": "Kies watter opdaterings jy wil ontvang.",
+        "managePreferences": "Bestuur Gedetailleerde Voorkeure",
+        "youHave": "Jy het",
+        "lastChanged": "Laas verander",
+        "update": "Opdateer",
+        "dataPrivacy": "Data & Privaatheid",
+        "readPrivacy": "Lees Privaatheidsbeleid",
+        "readTerms": "Lees Diensbepalings"
+    },
+    "language": {
+        "selectLanguage": "Kies Taal",
+        "language": "Taal"
+    }
+}

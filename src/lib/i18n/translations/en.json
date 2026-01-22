@@ -1,0 +1,337 @@
+{
+    "nav": {
+        "listenLive": "Listen Live",
+        "schedule": "Schedule",
+        "shows": "Shows",
+        "events": "Events",
+        "blog": "Blog",
+        "about": "About",
+        "contact": "Contact",
+        "shop": "Shop",
+        "login": "Login",
+        "signUp": "Sign Up",
+        "dashboard": "Dashboard",
+        "notifications": "Notifications",
+        "signOut": "Sign Out",
+        "menu": "Menu",
+        "viewDashboard": "View Dashboard"
+    },
+    "notifications": {
+        "title": "Notifications",
+        "description": "Manage your alerts and subscription preferences.",
+        "preferences": "Preferences",
+        "newShows": "New Shows",
+        "events": "Events",
+        "promotions": "Promotions",
+        "mentions": "Mentions",
+        "savePreferences": "Save Preferences",
+        "savedSuccess": "Notification preferences saved!",
+        "recent": "Recent Notifications",
+        "viewAllHistory": "View All History",
+        "empty": "No notifications yet"
+    },
+    "events": {
+        "title": "Upcoming Events",
+        "noEventsTitle": "No Upcoming Events",
+        "noEventsMessage": "Check back soon for new announcements!",
+        "ticketsAvailable": "Tickets Available",
+        "freeEntry": "Free Entry",
+        "buyTickets": "Buy Tickets",
+        "infoOnly": "Info Only"
+    },
+    "home": {
+        "hero": {
+            "liveNow": "Live Now",
+            "titlePart1": "The Sound",
+            "titlePart2": "Of The City",
+            "subtitle": "Underground culture, music, and community broadcasting 24/7 from the heart of Johannesburg"
+        },
+        "onAir": {
+            "now": "On Air Now",
+            "with": "with",
+            "tuneIn": "Tune In"
+        },
+        "stats": {
+            "monthlyListeners": "Monthly Listeners",
+            "originalShows": "Original Shows",
+            "liveBroadcasting": "Live Broadcasting",
+            "independent": "Independent"
+        },
+        "featured": {
+            "title": "Featured",
+            "shows": "Shows",
+            "subtitle": "From hip-hop to jazz, politics to poetry. Discover the voices shaping our culture.",
+            "listenNow": "Listen Now",
+            "viewAll": "View All Shows"
+        },
+        "events": {
+            "title": "Upcoming",
+            "eventsTitle": "Events",
+            "subtitle": "Join us IRL. Workshops, concerts, and community gatherings.",
+            "rsvpFree": "RSVP Free",
+            "getTickets": "Get Tickets",
+            "viewAll": "View All Events"
+        },
+        "why": {
+            "title": "Why",
+            "newtownRadio": "Newtown Radio?",
+            "independentTitle": "Independent",
+            "independentDesc": "No corporate sponsors. No ads. Just pure, unfiltered content.",
+            "communityTitle": "Community Driven",
+            "communityDesc": "By the people, for the people. Your voice matters here.",
+            "diverseTitle": "Diverse Voices",
+            "diverseDesc": "From hip-hop to jazz, politics to poetry. Everyone has a platform.",
+            "evolvingTitle": "Always Evolving",
+            "evolvingDesc": "New shows, new voices, new perspectives. We never stop growing."
+        },
+        "membership": {
+            "title": "Support Independent Radio",
+            "desc": "Join our community of supporters. Get exclusive perks, ad-free listening, and help keep us on air.",
+            "button": "Become a Member",
+            "donate": "Make a Donation"
+        },
+        "newsletter": {
+            "title": "Stay In The Loop",
+            "desc": "Get weekly updates on new shows, events, and exclusive content.",
+            "placeholder": "your@email.com",
+            "button": "Subscribe"
+        }
+    },
+    "listen": {
+        "liveAir": "Live Air",
+        "liveNow": "LIVE NOW",
+        "hero": {
+            "title": "Newtown",
+            "radio": "Radio",
+            "desc": "Broadcasting live 24/7. The heartbeat of the city.",
+            "listen": "Listen Live"
+        },
+        "recent": {
+            "title": "Recent Broadcasts",
+            "empty": "No recent episodes archived."
+        }
+    },
+    "schedule": {
+        "title": "Broadcast Schedule",
+        "empty": {
+            "title": "Schedule Updating",
+            "desc": "Our producers are finalizing the new lineup."
+        },
+        "card": {
+            "with": "Recorded/Live with",
+            "view": "View Details"
+        }
+    },
+    "shows": {
+        "title": "Our",
+        "showsTitle": "Shows",
+        "desc": "Discover the voices shaping our culture. From hip-hop to jazz, politics to tech.",
+        "searchPlaceholder": "Search shows or hosts...",
+        "tba": "TBA",
+        "viewShow": "View Show",
+        "empty": "No shows found matching your criteria.",
+        "genre": {
+            "all": "All",
+            "music": "Music"
+        }
+    },
+    "showDetail": {
+        "with": "with",
+        "listenLive": "Listen Live",
+        "share": "Share",
+        "aboutTitle": "About the Show",
+        "episodesTitle": "Recent Episodes",
+        "hostTitle": "Your Host",
+        "viewProfile": "View Profile",
+        "subscribeTitle": "Never Miss an Episode",
+        "subscribeDesc": "Subscribe to get notified when new episodes drop.",
+        "subscribeButton": "Subscribe"
+    },
+    "blog": {
+        "title": "News &",
+        "culture": "Culture",
+        "subtitle": "Stories from the heart of Johannesburg music and culture scene.",
+        "featured": "Featured",
+        "loadMore": "Load More Articles",
+        "categories": {
+            "all": "All",
+            "musicCulture": "Music Culture",
+            "behindScenes": "Behind the Scenes",
+            "interviews": "Interviews",
+            "opinion": "Opinion"
+        }
+    },
+    "about": {
+        "hero": {
+            "since": "Since 2010",
+            "title": "Our",
+            "story": "Story",
+            "desc": "Broadcasting the heartbeat of Johannesburg's underground culture to the world."
+        },
+        "mission": {
+            "title": "Mission &",
+            "vision": "Vision",
+            "missionTitle": "Our Mission",
+            "missionDesc": "To provide a platform for underrepresented voices and sounds, fostering a global community united by a love for authentic music and independent culture.",
+            "visionTitle": "Our Vision",
+            "visionDesc": "To be the world's leading independent radio station, known for breaking boundaries, discovering new talent, and creating meaningful cultural connections."
+        },
+        "team": {
+            "title": "Meet The",
+            "teamTitle": "Team",
+            "desc": "The passionate voices and minds behind the station.",
+            "viewAll": "View All Hosts"
+        },
+        "partners": {
+            "title": "Our",
+            "partnersTitle": "Partners",
+            "interested": "Interested in partnering with us?",
+            "button": "Become a Partner"
+        }
+    },
+    "contact": {
+        "title": "Get In",
+        "touch": "Touch",
+        "subtitle": "Have a question, demo submission, or want to book a host? We're listening.",
+        "form": {
+            "title": "Send us a message",
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "email": "Email Address",
+            "inquiryType": "Inquiry Type",
+            "types": {
+                "general": "General Inquiry",
+                "booking": "Booking Inquiry (Events/Hosts)",
+                "music": "Music Submission",
+                "advertising": "Advertising",
+                "feedback": "Feedback"
+            },
+            "message": "Message",
+            "send": "Send Message",
+            "sentSuccess": "Message sent! We will get back to you shortly."
+        },
+        "info": {
+            "title": "Contact Information",
+            "addressTitle": "Studio Address",
+            "address": "123 Pulse Avenue, Newtown<br />Johannesburg, 2001<br />South Africa",
+            "emailTitle": "Email Us",
+            "callTitle": "Call Us"
+        },
+        "social": {
+            "follow": "Follow Us"
+        },
+        "location": {
+            "title": "Studio Location"
+        }
+    },
+    "topBar": {
+        "liveFrom": "Live from Johannesburg",
+        "broadcasting": "Broadcasting 24/7",
+        "advertising": "Advertising"
+    },
+    "footer": {
+        "tagline": "Sound of the City",
+        "description": "Broadcasting underground culture, music, and community 24/7 from the heart of Johannesburg.",
+        "quickLinks": "Quick Links",
+        "connect": "Connect",
+        "newsletter": "Newsletter",
+        "newsletterText": "Stay updated with our latest shows, events, and music.",
+        "emailPlaceholder": "Enter your email",
+        "subscribe": "Subscribe",
+        "rights": "All rights reserved.",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Service"
+    },
+    "player": {
+        "nowPlaying": "Now Playing",
+        "play": "Play",
+        "pause": "Pause",
+        "volume": "Volume",
+        "mute": "Mute",
+        "unmute": "Unmute"
+    },
+    "cart": {
+        "cart": "Cart",
+        "yourCart": "Your Cart",
+        "empty": "Your cart is empty",
+        "continueShopping": "Continue Shopping",
+        "subtotal": "Subtotal",
+        "checkout": "Checkout",
+        "remove": "Remove",
+        "quantity": "Quantity"
+    },
+    "shop": {
+        "store": "Store",
+        "description": "Official Newtown Radio merchandise. Support independent broadcasting.",
+        "comingSoon": "Shop Coming Soon",
+        "stockingShelves": "Marketers are busy stocking the shelves!",
+        "addToCart": "Add to Cart",
+        "addedToCart": "added to cart!",
+        "itemDescription": "Premium quality {category} with signature Newtown Radio branding."
+    },
+    "common": {
+        "loading": "Loading...",
+        "error": "Error",
+        "success": "Success",
+        "close": "Close",
+        "save": "Save",
+        "cancel": "Cancel",
+        "delete": "Delete",
+        "edit": "Edit",
+        "search": "Search",
+        "searchPlaceholder": "Search...",
+        "viewMore": "View More",
+        "readMore": "Read More",
+        "learnMore": "Learn More"
+    },
+    "auth": {
+        "email": "Email",
+        "password": "Password",
+        "confirmPassword": "Confirm Password",
+        "name": "Name",
+        "forgotPassword": "Forgot Password?",
+        "noAccount": "Don't have an account?",
+        "hasAccount": "Already have an account?",
+        "signInHere": "Sign in here",
+        "signUpHere": "Sign up here"
+    },
+    "dashboard": {
+        "welcome": "Welcome",
+        "myAccount": "My Account",
+        "manageProfile": "Manage your profile, membership, and preferences.",
+        "memberSince": "Member since",
+        "unreadNotifications": "unread notifications",
+        "changePassword": "Change Password",
+        "logOut": "Log Out",
+        "profile": "Profile",
+        "settings": "Settings",
+        "orders": "Orders",
+        "favorites": "Favorites",
+        "membershipBilling": "Membership & Billing",
+        "privacySecurity": "Privacy & Security",
+        "profileSettings": "Profile Settings",
+        "changeAvatar": "Change Avatar",
+        "displayName": "Display Name",
+        "saveChanges": "Save Changes",
+        "currentPlan": "Current Plan",
+        "vipAccess": "VIP Access",
+        "renewsOn": "Renews on",
+        "mo": "/mo",
+        "savedPaymentMethods": "Saved Payment Methods",
+        "expires": "Expires",
+        "addNewMethod": "Add New Method",
+        "notificationPreferences": "Notification Preferences",
+        "notificationDescription": "Choose what updates you want to receive.",
+        "managePreferences": "Manage Detailed Preferences",
+        "youHave": "You have",
+        "lastChanged": "Last changed",
+        "update": "Update",
+        "dataPrivacy": "Data & Privacy",
+        "readPrivacy": "Read Privacy Policy",
+        "readTerms": "Read Terms of Service"
+    },
+    "language": {
+        "selectLanguage": "Select Language",
+        "language": "Language"
+    }
+}

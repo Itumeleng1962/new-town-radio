@@ -1,0 +1,337 @@
+{
+    "nav": {
+        "listenLive": "Theeletša Bjale",
+        "schedule": "Lenaneo",
+        "shows": "Mananeo",
+        "events": "Ditiragalo",
+        "blog": "Blog",
+        "about": "Ka ga Rena",
+        "contact": "Ikgokaganye",
+        "shop": "Lelebenkele",
+        "login": "Tsena",
+        "signUp": "Ingwadiše",
+        "dashboard": "Dashboard",
+        "notifications": "Ditsebišo",
+        "signOut": "Tšwa",
+        "menu": "Menu",
+        "viewDashboard": "Lebelela Dashboard"
+    },
+    "notifications": {
+        "title": "Ditsebišo",
+        "description": "Laola ditemošo le dikgetho tša gago.",
+        "preferences": "Dikgetho",
+        "newShows": "Mananeo a Maswa",
+        "events": "Ditiragalo",
+        "promotions": "Dipapatšo",
+        "mentions": "Ditumulo",
+        "savePreferences": "Boloka Dikgetho",
+        "savedSuccess": "Dikgetho tša ditsebišo di bolokilwe!",
+        "recent": "Ditsebišo tša Bjale",
+        "viewAllHistory": "Lebelela Histori Yote",
+        "empty": "Ga go na ditsebišo gajwale"
+    },
+    "events": {
+        "title": "Ditiragalo tše di Tlago",
+        "noEventsTitle": "Ga go na Ditiragalo tše di Tlago",
+        "noEventsMessage": "Boa gape kgauswinyana go bona ditsebišo tše diswa!",
+        "ticketsAvailable": "Dithekete di Gona",
+        "freeEntry": "Tseno Mahala",
+        "buyTickets": "Reka Dithekete",
+        "infoOnly": "Tshedimošo Fela"
+    },
+    "home": {
+        "hero": {
+            "liveNow": "Phelago Bjale",
+            "titlePart1": "Modumo",
+            "titlePart2": "Wa Toropo",
+            "subtitle": "Setšo sa ka tlase, mmino, le phatlalatšo ya setšhaba 24/7 go tšwa pelong ya Johannesburg"
+        },
+        "onAir": {
+            "now": "E Moyeng Bjale",
+            "with": "le",
+            "tuneIn": "Theeletša"
+        },
+        "stats": {
+            "monthlyListeners": "Batheeletši ka Kgwedi",
+            "originalShows": "Mananeo a Pele",
+            "liveBroadcasting": "Phatlalatšo e Phelago",
+            "independent": "Ikemeditše"
+        },
+        "featured": {
+            "title": "E Kgethilwego",
+            "shows": "Mananeo",
+            "subtitle": "Go tloga hip-hop go ya jazz, dipolotiki go ya direto. Hwetša mantšu a a bopago setšo sa rena.",
+            "listenNow": "Theeletša Bjale",
+            "viewAll": "Lebelela Mananeo Ohle"
+        },
+        "events": {
+            "title": "Tše di Tlago",
+            "eventsTitle": "Ditiragalo",
+            "subtitle": "Eba le rena. Dithuto, dikhonsata, le dipokano tša setšhaba.",
+            "rsvpFree": "RSVP Mahala",
+            "getTickets": "Hwetša Dithekete",
+            "viewAll": "Lebelela Ditiragalo Tšohle"
+        },
+        "why": {
+            "title": "Ke Eng",
+            "newtownRadio": "Newtown Radio?",
+            "independentTitle": "Ikemeditše",
+            "independentDesc": "Ga go na baabi ba dikhampani. Ga go na dipapatšo. Diteng tše di hlwekilego fela.",
+            "communityTitle": "E Sepedišwa ke Setšhaba",
+            "communityDesc": "Ka batho, bakeng sa batho. Lentšu la gago le bohlokwa mo.",
+            "diverseTitle": "Mantšu a a Fapanego",
+            "diverseDesc": "Go tloga hip-hop go ya jazz, dipolotiki go ya direto. Motho yo mongwe le yo mongwe o na le sethala.",
+            "evolvingTitle": "E Dula e Fetoga",
+            "evolvingDesc": "Mananeo a maswa, mantšu a maswa, dikgopolo tše diswa. Ga re emi go gola."
+        },
+        "membership": {
+            "title": "Thekga Radio e Ikemeditšego",
+            "desc": "Eba karolo ya setšhaba sa rena sa bathekgi. Hwetša melemo e kgethegilego, go theeletša ntle le dipapatšo, gomme o re thuše go dula moyeng.",
+            "button": "Eba Setho",
+            "donate": "Dira Moneelo"
+        },
+        "newsletter": {
+            "title": "Dula o Tseba",
+            "desc": "Hwetša ditaba tša beke le beke ka mananeo a maswa, ditiragalo, le diteng tše ikgethegilego.",
+            "placeholder": "email@yagago.com",
+            "button": "Ingwadiše"
+        }
+    },
+    "listen": {
+        "liveAir": "Moyeng Bjale",
+        "liveNow": "PHELA BJALE",
+        "hero": {
+            "title": "Newtown",
+            "radio": "Radio",
+            "desc": "Phatlalatša phelago 24/7. Pelo ya toropo.",
+            "listen": "Theeletša Phelago"
+        },
+        "recent": {
+            "title": "Diphatlalatšo tša Bjale",
+            "empty": "Ga go di-episode tša bjale tše bolokilwego."
+        }
+    },
+    "schedule": {
+        "title": "Tshepedišo ya Phatlalatšo",
+        "empty": {
+            "title": "Tshepedišo e a Mpshafatšwa",
+            "desc": "Batšweletši ba rena ba feleletša lenaneo le leswa."
+        },
+        "card": {
+            "with": "E Rekotilwe/Phelago le",
+            "view": "Lebelela Dintlha"
+        }
+    },
+    "shows": {
+        "title": "Tša Rena",
+        "showsTitle": "Mananeo",
+        "desc": "Hwetša mantšu a a bopago setšo sa rena. Go tloga hip-hop go ya jazz, dipolotiki go ya theknolotši.",
+        "searchPlaceholder": "Nyaka mananeo goba baamogedi...",
+        "tba": "TBA",
+        "viewShow": "Lebelela Lenaneo",
+        "empty": "Ga go mananeo a hweditšwego.",
+        "genre": {
+            "all": "Tšohle",
+            "music": "Mmino"
+        }
+    },
+    "showDetail": {
+        "with": "le",
+        "listenLive": "Theeletša Phelago",
+        "share": "Abelana",
+        "aboutTitle": "Ka ga Lenaneo",
+        "episodesTitle": "Di-episode tša Bjale",
+        "hostTitle": "Moamogedi wa Gago",
+        "viewProfile": "Lebelela Profile",
+        "subscribeTitle": "Se Ke Wa Foša Episode",
+        "subscribeDesc": "Ingwadiše go hwetša tsebišo ge di-episode tše diswa di tšwa.",
+        "subscribeButton": "Ingwadiše"
+    },
+    "blog": {
+        "title": "Ditaba &",
+        "culture": "Setšo",
+        "subtitle": "Dikanegelo tša go tšwa pelong ya mmino le setšo sa Johannesburg.",
+        "featured": "E Kgethilwego",
+        "loadMore": "Laela Diathikele tše Dingwe",
+        "categories": {
+            "all": "Tšohle",
+            "musicCulture": "Setšo sa Mmino",
+            "behindScenes": "Ka morago ga Scenes",
+            "interviews": "Dipoledišano",
+            "opinion": "Maikutlo"
+        }
+    },
+    "about": {
+        "hero": {
+            "since": "Go tloga 2010",
+            "title": "Kanegelo",
+            "story": "Ya Rena",
+            "desc": "Phatlalatša pelo ya setšo se ka tlase sa Johannesburg go lefase."
+        },
+        "mission": {
+            "title": "Maikaelelo &",
+            "vision": "Pono",
+            "missionTitle": "Maikaelelo a Rena",
+            "missionDesc": "Go fana ka sethala bakeng sa mantšu le medumo e sa emelwago gabotse, go aga setšhaba sa lefase se kopanego ka lerato la mmino wa nnete le setšo se ikemeditšego.",
+            "visionTitle": "Pono ya Rena",
+            "visionDesc": "Go ba seteišene sa radio se ikemeditšego se etelelago pele lefaseng, se tsebjago ka go roba mellwane, go hwetša talenta e mpsha, le go hlola dikgokagano tša setšo tše di nago le morero."
+        },
+        "team": {
+            "title": "Kopana le",
+            "teamTitle": "Sehlopha",
+            "desc": "Mantšu le menagano e nago le tjhesego e bakago seteišene.",
+            "viewAll": "Lebelela Baamogedi Bohle"
+        },
+        "partners": {
+            "title": "Bašomisani",
+            "partnersTitle": "Ba Rena",
+            "interested": "Na o na le kgahlego ya go šoma le rena?",
+            "button": "Eba Mošomisani"
+        }
+    },
+    "contact": {
+        "title": "Tsenang",
+        "touch": "Kopanong",
+        "subtitle": "Na o na le potšišo, tlhagišo ya demo, goba o nyaka go beela moamogedi? Re a theeletša.",
+        "form": {
+            "title": "Re romele molaetša",
+            "firstName": "Leina",
+            "lastName": "Fane",
+            "email": "Aterese ya Email",
+            "inquiryType": "Mohuta wa Dipotšišo",
+            "types": {
+                "general": "Potšišo Kakaretšo",
+                "booking": "Potšišo ya Peeletšo (Ditiragalo/Baamogedi)",
+                "music": "Tlhagišo ya Mmino",
+                "advertising": "Papatšo",
+                "feedback": "Maikutlo"
+            },
+            "message": "Molaetša",
+            "send": "Romela Molaetša",
+            "sentSuccess": "Molaetša o rometšwe! Re tla boa go wena kgauswinyana."
+        },
+        "info": {
+            "title": "Tshedimošo ya Dikgokagano",
+            "addressTitle": "Aterese ya Studio",
+            "address": "123 Pulse Avenue, Newtown<br />Johannesburg, 2001<br />South Africa",
+            "emailTitle": "Re Romele Email",
+            "callTitle": "Re leletše"
+        },
+        "social": {
+            "follow": "Re latele"
+        },
+        "location": {
+            "title": "Lefelo la Studio"
+        }
+    },
+    "topBar": {
+        "liveFrom": "Phelago go tšwa Johannesburg",
+        "broadcasting": "Phatlalatša 24/7",
+        "advertising": "Papatšo"
+    },
+    "footer": {
+        "tagline": "Modumo wa Toropo",
+        "description": "Phatlalatša setšo, mmino le setšhaba 24/7 go tšwa pelong ya Johannesburg.",
+        "quickLinks": "Dihokelo tše Phatlakilwego",
+        "connect": "Kopana",
+        "newsletter": "Koranta",
+        "newsletterText": "Dula o tseba ka mananeo a rena a maswa, ditiragalo, le mmino.",
+        "emailPlaceholder": "Tsenya email ya gago",
+        "subscribe": "Ingwadiše",
+        "rights": "Ditokelo tšohle di sireleditšwe.",
+        "privacy": "Pholisi ya Sephiri",
+        "terms": "Melao ya Tirelo"
+    },
+    "player": {
+        "nowPlaying": "E Bapala Bjale",
+        "play": "Bapala",
+        "pause": "Kgutša",
+        "volume": "Modumo",
+        "mute": "Thola",
+        "unmute": "Bula Modumo"
+    },
+    "cart": {
+        "cart": "Kariki",
+        "yourCart": "Kariki ya Gago",
+        "empty": "Kariki ya gago ga e na selo",
+        "continueShopping": "Tšwela Pele go Reka",
+        "subtotal": "Palomoka",
+        "checkout": "Lefa",
+        "remove": "Tloša",
+        "quantity": "Bontši"
+    },
+    "shop": {
+        "store": "Lelebenkele",
+        "description": "Thoto ya semmušo ya Newtown Radio. Thekga phatlalatšo e ikemeditšego.",
+        "comingSoon": "Lelebenkele le Tla Kgauswinyana",
+        "stockingShelves": "Babatši ba swaregile ba tlatša dishelefo!",
+        "addToCart": "Tsenya Kariking",
+        "addedToCart": "e tsentšwe kariking!",
+        "itemDescription": "Boleng bja premium {category} ka leina la Newtown Radio."
+    },
+    "common": {
+        "loading": "E a laiša...",
+        "error": "Phošo",
+        "success": "Katlego",
+        "close": "Tswala",
+        "save": "Boloka",
+        "cancel": "Khansela",
+        "delete": "Phumula",
+        "edit": "Fetola",
+        "search": "Nyaka",
+        "searchPlaceholder": "Nyaka...",
+        "viewMore": "Lebelela Tše Dingwe",
+        "readMore": "Bala Tše Dingwe",
+        "learnMore": "Ithute Tše Dingwe"
+    },
+    "auth": {
+        "email": "Email",
+        "password": "Password",
+        "confirmPassword": "Netefatša Password",
+        "name": "Leina",
+        "forgotPassword": "O lebetse Password?",
+        "noAccount": "Ga o na akhaonto?",
+        "hasAccount": "O šetše o na le akhaonto?",
+        "signInHere": "Tsena mo",
+        "signUpHere": "Ingwadiše mo"
+    },
+    "dashboard": {
+        "welcome": "Kamogelo",
+        "myAccount": "Akhaonto ya Ka",
+        "manageProfile": "Laola profile ya gago, leloko, le dikgetho.",
+        "memberSince": "Leloko go tloga",
+        "unreadNotifications": "ditsebišo tše sa balwago",
+        "changePassword": "Fetola Password",
+        "logOut": "Tšwa",
+        "profile": "Profile",
+        "settings": "Disetings",
+        "orders": "Di-odara",
+        "favorites": "Tše ratwago",
+        "membershipBilling": "Leloko & Tefišo",
+        "privacySecurity": "Sephiri & Tšhireletšo",
+        "profileSettings": "Disetings tša Profile",
+        "changeAvatar": "Fetola Avatar",
+        "displayName": "Leina la Ponalo",
+        "saveChanges": "Boloka Diphetogo",
+        "currentPlan": "Polane ya Bjale",
+        "vipAccess": "Phihlello ya VIP",
+        "renewsOn": "E mpshafatšwa ka",
+        "mo": "/kgwedi",
+        "savedPaymentMethods": "Mekgwa ya Tefo e Bolokilwego",
+        "expires": "E fela",
+        "addNewMethod": "Tsenya Mokgwa o Moswa",
+        "notificationPreferences": "Dikgetho tša Ditsebišo",
+        "notificationDescription": "Kgetha gore o nyaka go amogela di-update dife.",
+        "managePreferences": "Laola Dikgetho tše Tseneletšego",
+        "youHave": "O na le",
+        "lastChanged": "E fetotšwe la mafelelo",
+        "update": "Mpshafatša",
+        "dataPrivacy": "Data & Sephiri",
+        "readPrivacy": "Bala Pholisi ya Sephiri",
+        "readTerms": "Bala Melao ya Tirelo"
+    },
+    "language": {
+        "selectLanguage": "Kgetha Polelo",
+        "language": "Polelo"
+    }
+}

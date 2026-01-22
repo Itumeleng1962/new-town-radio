@@ -1,0 +1,337 @@
+{
+    "nav": {
+        "listenLive": "Ouvir Ao Vivo",
+        "schedule": "Programação",
+        "shows": "Programas",
+        "events": "Eventos",
+        "blog": "Blog",
+        "about": "Sobre Nós",
+        "contact": "Contato",
+        "shop": "Loja",
+        "login": "Entrar",
+        "signUp": "Cadastrar",
+        "dashboard": "Painel",
+        "notifications": "Notificações",
+        "signOut": "Sair",
+        "menu": "Menu",
+        "viewDashboard": "Ver Painel"
+    },
+    "notifications": {
+        "title": "Notificações",
+        "description": "Gerencie seus alertas e preferências.",
+        "preferences": "Preferências",
+        "newShows": "Novos Programas",
+        "events": "Eventos",
+        "promotions": "Promoções",
+        "mentions": "Menções",
+        "savePreferences": "Salvar Preferências",
+        "savedSuccess": "Preferências de notificação salvas!",
+        "recent": "Notificações Recentes",
+        "viewAllHistory": "Ver Todo o Histórico",
+        "empty": "Nenhuma notificação ainda"
+    },
+    "events": {
+        "title": "Próximos Eventos",
+        "noEventsTitle": "Sem Próximos Eventos",
+        "noEventsMessage": "Volte em breve para novos anúncios!",
+        "ticketsAvailable": "Ingressos Disponíveis",
+        "freeEntry": "Entrada Gratuita",
+        "buyTickets": "Comprar Ingressos",
+        "infoOnly": "Apenas Informação"
+    },
+    "home": {
+        "hero": {
+            "liveNow": "Ao Vivo Agora",
+            "titlePart1": "O Som",
+            "titlePart2": "Da Cidade",
+            "subtitle": "Cultura underground, música e transmissão comunitária 24/7 do coração de Joanesburgo"
+        },
+        "onAir": {
+            "now": "No Ar Agora",
+            "with": "com",
+            "tuneIn": "Sintonizar"
+        },
+        "stats": {
+            "monthlyListeners": "Ouvintes Mensais",
+            "originalShows": "Programas Originais",
+            "liveBroadcasting": "Transmissão Ao Vivo",
+            "independent": "Independente"
+        },
+        "featured": {
+            "title": "Destaque",
+            "shows": "Programas",
+            "subtitle": "Do hip-hop ao jazz, política à poesia. Descubra as vozes que moldam nossa cultura.",
+            "listenNow": "Ouvir Agora",
+            "viewAll": "Ver Todos os Programas"
+        },
+        "events": {
+            "title": "Próximos",
+            "eventsTitle": "Eventos",
+            "subtitle": "Junte-se a nós. Oficinas, shows e encontros comunitários.",
+            "rsvpFree": "RSVP Grátis",
+            "getTickets": "Obter Ingressos",
+            "viewAll": "Ver Todos os Eventos"
+        },
+        "why": {
+            "title": "Por Que",
+            "newtownRadio": "Newtown Radio?",
+            "independentTitle": "Independente",
+            "independentDesc": "Sem patrocinadores corporativos. Sem anúncios. Apenas conteúdo puro e sem filtros.",
+            "communityTitle": "Impulsionado pela Comunidade",
+            "communityDesc": "Pelas pessoas, para as pessoas. Sua voz importa aqui.",
+            "diverseTitle": "Vozes Diversas",
+            "diverseDesc": "Do hip-hop ao jazz, política à poesia. Todos têm uma plataforma.",
+            "evolvingTitle": "Sempre Evoluindo",
+            "evolvingDesc": "Novos programas, novas vozes, novas perspectivas. Nunca paramos de crescer."
+        },
+        "membership": {
+            "title": "Apoie a Rádio Independente",
+            "desc": "Junte-se à nossa comunidade de apoiadores. Obtenha benefícios exclusivos, audição sem anúncios e ajude-nos a permanecer no ar.",
+            "button": "Torne-se Membro",
+            "donate": "Fazer uma Doação"
+        },
+        "newsletter": {
+            "title": "Fique Informado",
+            "desc": "Receba atualizações semanais sobre novos programas, eventos e conteúdo exclusivo.",
+            "placeholder": "seu@email.com",
+            "button": "Inscrever-se"
+        }
+    },
+    "listen": {
+        "liveAir": "No Ar Ao Vivo",
+        "liveNow": "AO VIVO AGORA",
+        "hero": {
+            "title": "Newtown",
+            "radio": "Radio",
+            "desc": "Transmitindo ao vivo 24/7. O coração da cidade.",
+            "listen": "Ouvir Ao Vivo"
+        },
+        "recent": {
+            "title": "Transmissões Recentes",
+            "empty": "Nenhum episódio recente arquivado."
+        }
+    },
+    "schedule": {
+        "title": "Programação de Transmissão",
+        "empty": {
+            "title": "Programação Sendo Atualizada",
+            "desc": "Nossos produtores estão finalizando a nova grade."
+        },
+        "card": {
+            "with": "Gravado/Ao Vivo com",
+            "view": "Ver Detalhes"
+        }
+    },
+    "shows": {
+        "title": "Nossos",
+        "showsTitle": "Programas",
+        "desc": "Descubra as vozes que moldam nossa cultura. Do hip-hop ao jazz, política à tecnologia.",
+        "searchPlaceholder": "Buscar programas ou apresentadores...",
+        "tba": "A ANUNCIAR",
+        "viewShow": "Ver Programa",
+        "empty": "Nenhum programa encontrado.",
+        "genre": {
+            "all": "Todos",
+            "music": "Música"
+        }
+    },
+    "showDetail": {
+        "with": "com",
+        "listenLive": "Ouvir Ao Vivo",
+        "share": "Compartilhar",
+        "aboutTitle": "Sobre o Programa",
+        "episodesTitle": "Episódios Recentes",
+        "hostTitle": "Seu Apresentador",
+        "viewProfile": "Ver Perfil",
+        "subscribeTitle": "Nunca Perca um Episódio",
+        "subscribeDesc": "Inscreva-se para ser notificado quando novos episódios forem lançados.",
+        "subscribeButton": "Inscrever-se"
+    },
+    "blog": {
+        "title": "Notícias e",
+        "culture": "Cultura",
+        "subtitle": "Histórias do coração da cena musical e cultural de Joanesburgo.",
+        "featured": "Destaque",
+        "loadMore": "Carregar Mais Artigos",
+        "categories": {
+            "all": "Todos",
+            "musicCulture": "Cultura Musical",
+            "behindScenes": "Bastidores",
+            "interviews": "Entrevistas",
+            "opinion": "Opinião"
+        }
+    },
+    "about": {
+        "hero": {
+            "since": "Desde 2010",
+            "title": "nossa",
+            "story": "História",
+            "desc": "Transmitindo o coração da cultura underground de Joanesburgo para o mundo."
+        },
+        "mission": {
+            "title": "Missão e",
+            "vision": "Visão",
+            "missionTitle": "Nossa Missão",
+            "missionDesc": "Fornecer uma plataforma para vozes e sons sub-representados, promovendo uma comunidade global unida pelo amor à música autêntica e cultura independente.",
+            "visionTitle": "Nossa Visão",
+            "visionDesc": "Ser a principal estação de rádio independente do mundo, conhecida por quebrar barreiras, descobrir novos talentos e criar conexões culturais significativas."
+        },
+        "team": {
+            "title": "Conheça a",
+            "teamTitle": "Equipe",
+            "desc": "As vozes e mentes apaixonadas por trás da estação.",
+            "viewAll": "Ver Todos os Apresentadores"
+        },
+        "partners": {
+            "title": "Nossos",
+            "partnersTitle": "Parceiros",
+            "interested": "Interessado em fazer parceria conosco?",
+            "button": "Torne-se um Parceiro"
+        }
+    },
+    "contact": {
+        "title": "Entre em",
+        "touch": "Contato",
+        "subtitle": "Tem uma pergunta, envio de demo ou quer reservar um apresentador? Estamos ouvindo.",
+        "form": {
+            "title": "Envie-nos uma mensagem",
+            "firstName": "Nome",
+            "lastName": "Sobrenome",
+            "email": "Endereço de E-mail",
+            "inquiryType": "Tipo de Consulta",
+            "types": {
+                "general": "Consulta Geral",
+                "booking": "Consulta de Reserva (Eventos/Apresentadores)",
+                "music": "Envio de Música",
+                "advertising": "Publicidade",
+                "feedback": "Feedback"
+            },
+            "message": "Mensagem",
+            "send": "Enviar Mensagem",
+            "sentSuccess": "Mensagem enviada! Entraremos em contato em breve."
+        },
+        "info": {
+            "title": "Informações de Contato",
+            "addressTitle": "Endereço do Estúdio",
+            "address": "123 Pulse Avenue, Newtown<br />Joanesburgo, 2001<br />África do Sul",
+            "emailTitle": "Envie-nos um E-mail",
+            "callTitle": "Ligue para Nós"
+        },
+        "social": {
+            "follow": "Siga-nos"
+        },
+        "location": {
+            "title": "Localização do Estúdio"
+        }
+    },
+    "topBar": {
+        "liveFrom": "Ao vivo de Joanesburgo",
+        "broadcasting": "Transmitindo 24/7",
+        "advertising": "Publicidade"
+    },
+    "footer": {
+        "tagline": "O Som da Cidade",
+        "description": "Transmitindo cultura underground, música e comunidade 24/7 do coração de Joanesburgo.",
+        "quickLinks": "Links Rápidos",
+        "connect": "Conectar",
+        "newsletter": "Boletim Informativo",
+        "newsletterText": "Mantenha-se atualizado com nossos últimos programas, eventos e música.",
+        "emailPlaceholder": "Digite seu e-mail",
+        "subscribe": "Inscrever-se",
+        "rights": "Todos os direitos reservados.",
+        "privacy": "Política de Privacidade",
+        "terms": "Termos de Serviço"
+    },
+    "player": {
+        "nowPlaying": "Tocando Agora",
+        "play": "Tocar",
+        "pause": "Pausar",
+        "volume": "Volume",
+        "mute": "Mudo",
+        "unmute": "Ativar Som"
+    },
+    "cart": {
+        "cart": "Carrinho",
+        "yourCart": "Seu Carrinho",
+        "empty": "Seu carrinho está vazio",
+        "continueShopping": "Continuar Comprando",
+        "subtotal": "Subtotal",
+        "checkout": "Finalizar Compra",
+        "remove": "Remover",
+        "quantity": "Quantidade"
+    },
+    "shop": {
+        "store": "Loja",
+        "description": "Mercadoria oficial da Newtown Radio. Apoie a transmissão independente.",
+        "comingSoon": "Loja Chegando em Breve",
+        "stockingShelves": "Os comerciantes estão ocupados enchendo as prateleiras!",
+        "addToCart": "Adicionar ao Carrinho",
+        "addedToCart": "adicionado ao carrinho!",
+        "itemDescription": "Qualidade premium {category} com a marca Newtown Radio."
+    },
+    "common": {
+        "loading": "Carregando...",
+        "error": "Erro",
+        "success": "Sucesso",
+        "close": "Fechar",
+        "save": "Salvar",
+        "cancel": "Cancelar",
+        "delete": "Excluir",
+        "edit": "Editar",
+        "search": "Buscar",
+        "searchPlaceholder": "Buscar...",
+        "viewMore": "Ver Mais",
+        "readMore": "Ler Mais",
+        "learnMore": "Saiba Mais"
+    },
+    "auth": {
+        "email": "E-mail",
+        "password": "Senha",
+        "confirmPassword": "Confirmar Senha",
+        "name": "Nome",
+        "forgotPassword": "Esqueceu a Senha?",
+        "noAccount": "Não tem uma conta?",
+        "hasAccount": "Já tem uma conta?",
+        "signInHere": "Entre aqui",
+        "signUpHere": "Cadastre-se aqui"
+    },
+    "dashboard": {
+        "welcome": "Bem-vindo",
+        "myAccount": "Minha Conta",
+        "manageProfile": "Gerencie seu perfil, assinatura e preferências.",
+        "memberSince": "Membro desde",
+        "unreadNotifications": "notificações não lidas",
+        "changePassword": "Alterar Senha",
+        "logOut": "Sair",
+        "profile": "Perfil",
+        "settings": "Configurações",
+        "orders": "Pedidos",
+        "favorites": "Favoritos",
+        "membershipBilling": "Assinatura e Cobrança",
+        "privacySecurity": "Privacidade e Segurança",
+        "profileSettings": "Configurações de Perfil",
+        "changeAvatar": "Alterar Avatar",
+        "displayName": "Nome de Exibição",
+        "saveChanges": "Salvar Alterações",
+        "currentPlan": "Plano Atual",
+        "vipAccess": "Acesso VIP",
+        "renewsOn": "Renova em",
+        "mo": "/mês",
+        "savedPaymentMethods": "Métodos de Pagamento Salvos",
+        "expires": "Expira",
+        "addNewMethod": "Adicionar Novo Método",
+        "notificationPreferences": "Preferências de Notificação",
+        "notificationDescription": "Escolha quais atualizações você deseja receber.",
+        "managePreferences": "Gerenciar Preferências Detalhadas",
+        "youHave": "Você tem",
+        "lastChanged": "Última alteração",
+        "update": "Atualizar",
+        "dataPrivacy": "Dados e Privacidade",
+        "readPrivacy": "Ler Política de Privacidade",
+        "readTerms": "Ler Termos de Serviço"
+    },
+    "language": {
+        "selectLanguage": "Selecionar Idioma",
+        "language": "Idioma"
+    }
+}

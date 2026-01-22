@@ -1,0 +1,337 @@
+{
+    "nav": {
+        "listenLive": "Escuchar Ahora",
+        "schedule": "Horario",
+        "shows": "Programas",
+        "events": "Eventos",
+        "blog": "Blog",
+        "about": "Nosotros",
+        "contact": "Contacto",
+        "shop": "Tienda",
+        "login": "Iniciar Sesión",
+        "signUp": "Registrarse",
+        "dashboard": "Panel",
+        "notifications": "Notificaciones",
+        "signOut": "Cerrar Sesión",
+        "menu": "Menú",
+        "viewDashboard": "Ver Panel"
+    },
+    "notifications": {
+        "title": "Notificaciones",
+        "description": "Administra tus alertas y preferencias.",
+        "preferences": "Preferencias",
+        "newShows": "Nuevos Programas",
+        "events": "Eventos",
+        "promotions": "Promociones",
+        "mentions": "Menciones",
+        "savePreferences": "Guardar Preferencias",
+        "savedSuccess": "¡Preferencias guardadas!",
+        "recent": "Notificaciones Recientes",
+        "viewAllHistory": "Ver Todo el Historial",
+        "empty": "No hay notificaciones"
+    },
+    "events": {
+        "title": "Próximos Eventos",
+        "noEventsTitle": "No Hay Próximos Eventos",
+        "noEventsMessage": "¡Vuelve pronto para nuevos anuncios!",
+        "ticketsAvailable": "Entradas Disponibles",
+        "freeEntry": "Entrada Gratuita",
+        "buyTickets": "Comprar Entradas",
+        "infoOnly": "Solo Información"
+    },
+    "home": {
+        "hero": {
+            "liveNow": "En Vivo",
+            "titlePart1": "El Sonido",
+            "titlePart2": "De La Ciudad",
+            "subtitle": "Cultura underground, música y radiodifusión comunitaria 24/7 desde el corazón de Johannesburgo"
+        },
+        "onAir": {
+            "now": "Al Aire Ahora",
+            "with": "con",
+            "tuneIn": "Sintonizar"
+        },
+        "stats": {
+            "monthlyListeners": "Oyentes Mensuales",
+            "originalShows": "Programas Originales",
+            "liveBroadcasting": "Transmisión en Vivo",
+            "independent": "Independiente"
+        },
+        "featured": {
+            "title": "Destacado",
+            "shows": "Programas",
+            "subtitle": "Desde hip-hop hasta jazz, política hasta poesía. Descubre las voces que moldean nuestra cultura.",
+            "listenNow": "Escuchar Ahora",
+            "viewAll": "Ver Todos los Programas"
+        },
+        "events": {
+            "title": "Próximos",
+            "eventsTitle": "Eventos",
+            "subtitle": "Únete a nosotros. Talleres, conciertos y reuniones comunitarias.",
+            "rsvpFree": "RSVP Gratis",
+            "getTickets": "Obtener Entradas",
+            "viewAll": "Ver Todos los Eventos"
+        },
+        "why": {
+            "title": "Por Qué",
+            "newtownRadio": "Newtown Radio?",
+            "independentTitle": "Independiente",
+            "independentDesc": "Sin patrocinadores corporativos. Sin anuncios. Solo contenido puro y sin filtros.",
+            "communityTitle": "Impulsado por la Comunidad",
+            "communityDesc": "Por la gente, para la gente. Tu voz importa aquí.",
+            "diverseTitle": "Voces Diversas",
+            "diverseDesc": "Desde hip-hop hasta jazz, política hasta poesía. Todos tienen una plataforma.",
+            "evolvingTitle": "Siempre Evolucionando",
+            "evolvingDesc": "Nuevos programas, nuevas voces, nuevas perspectivas. Nunca dejamos de crecer."
+        },
+        "membership": {
+            "title": "Apoya la Radio Independiente",
+            "desc": "Únete a nuestra comunidad de seguidores. Obtén beneficios exclusivos, escucha sin anuncios y ayúdanos a permanecer al aire.",
+            "button": "Hacerse Miembro",
+            "donate": "Hacer una Donación"
+        },
+        "newsletter": {
+            "title": "Mantente Informado",
+            "desc": "Recibe actualizaciones semanales sobre nuevos programas, eventos y contenido exclusivo.",
+            "placeholder": "tu@email.com",
+            "button": "Suscribirse"
+        }
+    },
+    "listen": {
+        "liveAir": "En Vivo",
+        "liveNow": "EN VIVO AHORA",
+        "hero": {
+            "title": "Newtown",
+            "radio": "Radio",
+            "desc": "Transmitiendo en vivo 24/7. El latido de la ciudad.",
+            "listen": "Escuchar En Vivo"
+        },
+        "recent": {
+            "title": "Transmisiones Recientes",
+            "empty": "No hay episodios recientes archivados."
+        }
+    },
+    "schedule": {
+        "title": "Horario de Transmisión",
+        "empty": {
+            "title": "Actualizando Horario",
+            "desc": "Nuestros productores están finalizando la nueva programación."
+        },
+        "card": {
+            "with": "Grabado/En Vivo con",
+            "view": "Ver Detalles"
+        }
+    },
+    "shows": {
+        "title": "Nuestros",
+        "showsTitle": "Programas",
+        "desc": "Descubre las voces que moldean nuestra cultura. Desde hip-hop hasta jazz, política hasta tecnología.",
+        "searchPlaceholder": "Buscar programas o presentadores...",
+        "tba": "POR ANUNCIAR",
+        "viewShow": "Ver Programa",
+        "empty": "No se encontraron programas.",
+        "genre": {
+            "all": "Todos",
+            "music": "Música"
+        }
+    },
+    "showDetail": {
+        "with": "con",
+        "listenLive": "Escuchar En Vivo",
+        "share": "Compartir",
+        "aboutTitle": "Sobre el Programa",
+        "episodesTitle": "Episodios Recientes",
+        "hostTitle": "Tu Anfitrión",
+        "viewProfile": "Ver Perfil",
+        "subscribeTitle": "Nunca te Pierdas un Episodio",
+        "subscribeDesc": "Suscríbete para recibir notificaciones cuando salgan nuevos episodios.",
+        "subscribeButton": "Suscribirse"
+    },
+    "blog": {
+        "title": "Noticias y",
+        "culture": "Cultura",
+        "subtitle": "Historias desde el corazón de la escena musical y cultural de Johannesburgo.",
+        "featured": "Destacado",
+        "loadMore": "Cargar Más Artículos",
+        "categories": {
+            "all": "Todo",
+            "musicCulture": "Cultura Musical",
+            "behindScenes": "Detrás de Escena",
+            "interviews": "Entrevistas",
+            "opinion": "Opinión"
+        }
+    },
+    "about": {
+        "hero": {
+            "since": "Desde 2010",
+            "title": "Nuestra",
+            "story": "Historia",
+            "desc": "Transmitiendo el latido de la cultura underground de Johannesburgo al mundo."
+        },
+        "mission": {
+            "title": "Misión y",
+            "vision": "Visión",
+            "missionTitle": "Nuestra Misión",
+            "missionDesc": "Proporcionar una plataforma para voces y sonidos subrepresentados, fomentando una comunidad global unida por el amor a la música auténtica y la cultura independiente.",
+            "visionTitle": "Nuestra Visión",
+            "visionDesc": "Ser la estación de radio independiente líder en el mundo, conocida por romper límites, descubrir nuevos talentos y crear conexiones culturales significativas."
+        },
+        "team": {
+            "title": "Conoce al",
+            "teamTitle": "Equipo",
+            "desc": "Las voces y mentes apasionadas detrás de la estación.",
+            "viewAll": "Ver Todos los Anfitriones"
+        },
+        "partners": {
+            "title": "Nuestros",
+            "partnersTitle": "Socios",
+            "interested": "¿Interesado en asociarte con nosotros?",
+            "button": "Hacerse Socio"
+        }
+    },
+    "contact": {
+        "title": "Ponte en",
+        "touch": "Contacto",
+        "subtitle": "¿Tienes una pregunta, envío de demo o quieres reservar un anfitrión? Estamos escuchando.",
+        "form": {
+            "title": "Envíanos un mensaje",
+            "firstName": "Nombre",
+            "lastName": "Apellido",
+            "email": "Correo Electrónico",
+            "inquiryType": "Tipo de Consulta",
+            "types": {
+                "general": "Consulta General",
+                "booking": "Consulta de Reserva (Eventos/Anfitriones)",
+                "music": "Envío de Música",
+                "advertising": "Publicidad",
+                "feedback": "Comentarios"
+            },
+            "message": "Mensaje",
+            "send": "Enviar Mensaje",
+            "sentSuccess": "¡Mensaje enviado! Nos pondremos en contacto contigo pronto."
+        },
+        "info": {
+            "title": "Información de Contacto",
+            "addressTitle": "Dirección del Estudio",
+            "address": "123 Pulse Avenue, Newtown<br />Johannesburgo, 2001<br />Sudáfrica",
+            "emailTitle": "Envíanos un Email",
+            "callTitle": "Llámanos"
+        },
+        "social": {
+            "follow": "Síguenos"
+        },
+        "location": {
+            "title": "Ubicación del Estudio"
+        }
+    },
+    "topBar": {
+        "liveFrom": "En vivo desde Johannesburgo",
+        "broadcasting": "Transmitiendo 24/7",
+        "advertising": "Publicidad"
+    },
+    "footer": {
+        "tagline": "El Sonido de la Ciudad",
+        "description": "Transmitiendo cultura underground, música y comunidad 24/7 desde el corazón de Johannesburgo.",
+        "quickLinks": "Enlaces Rápidos",
+        "connect": "Conectar",
+        "newsletter": "Boletín",
+        "newsletterText": "Mantente actualizado con nuestros últimos programas, eventos y música.",
+        "emailPlaceholder": "Ingresa tu email",
+        "subscribe": "Suscribirse",
+        "rights": "Todos los derechos reservados.",
+        "privacy": "Política de Privacidad",
+        "terms": "Términos de Servicio"
+    },
+    "player": {
+        "nowPlaying": "Reproduciendo Ahora",
+        "play": "Reproducir",
+        "pause": "Pausa",
+        "volume": "Volumen",
+        "mute": "Silenciar",
+        "unmute": "Activar Sonido"
+    },
+    "cart": {
+        "cart": "Carrito",
+        "yourCart": "Tu Carrito",
+        "empty": "Tu carrito está vacío",
+        "continueShopping": "Seguir Comprando",
+        "subtotal": "Subtotal",
+        "checkout": "Pagar",
+        "remove": "Eliminar",
+        "quantity": "Cantidad"
+    },
+    "shop": {
+        "store": "Tienda",
+        "description": "Mercancía oficial de Newtown Radio. Aponga la radiodifusión independiente.",
+        "comingSoon": "La Tienda Llegará Pronto",
+        "stockingShelves": "¡Los comerciantes están ocupados llenando los estantes!",
+        "addToCart": "Añadir al Carrito",
+        "addedToCart": "¡añadido al carrito!",
+        "itemDescription": "Calidad premium {category} con la marca de Newtown Radio."
+    },
+    "common": {
+        "loading": "Cargando...",
+        "error": "Error",
+        "success": "Éxito",
+        "close": "Cerrar",
+        "save": "Guardar",
+        "cancel": "Cancelar",
+        "delete": "Eliminar",
+        "edit": "Editar",
+        "search": "Buscar",
+        "searchPlaceholder": "Buscar...",
+        "viewMore": "Ver Más",
+        "readMore": "Leer Más",
+        "learnMore": "Aprender Más"
+    },
+    "auth": {
+        "email": "Correo Electrónico",
+        "password": "Contraseña",
+        "confirmPassword": "Confirmar Contraseña",
+        "name": "Nombre",
+        "forgotPassword": "¿Olvidaste la Contraseña?",
+        "noAccount": "¿No tienes una cuenta?",
+        "hasAccount": "¿Ya tienes una cuenta?",
+        "signInHere": "Inicia sesión aquí",
+        "signUpHere": "Regístrate aquí"
+    },
+    "dashboard": {
+        "welcome": "Bienvenido",
+        "myAccount": "Mi Cuenta",
+        "manageProfile": "Administra tu perfil, membresía y preferencias.",
+        "memberSince": "Miembro desde",
+        "unreadNotifications": "notificaciones sin leer",
+        "changePassword": "Cambiar Contraseña",
+        "logOut": "Cerrar Sesión",
+        "profile": "Perfil",
+        "settings": "Configuración",
+        "orders": "Pedidos",
+        "favorites": "Favoritos",
+        "membershipBilling": "Membresía y Facturación",
+        "privacySecurity": "Privacidad y Seguridad",
+        "profileSettings": "Configuración del Perfil",
+        "changeAvatar": "Cambiar Avatar",
+        "displayName": "Nombre para Mostrar",
+        "saveChanges": "Guardar Cambios",
+        "currentPlan": "Plan Actual",
+        "vipAccess": "Acceso VIP",
+        "renewsOn": "Se renueva el",
+        "mo": "/mes",
+        "savedPaymentMethods": "Métodos de Pago Guardados",
+        "expires": "Expira",
+        "addNewMethod": "Añadir Nuevo Método",
+        "notificationPreferences": "Preferencias de Notificación",
+        "notificationDescription": "Elige qué actualizaciones quieres recibir.",
+        "managePreferences": "Administrar Preferencias Detalladas",
+        "youHave": "Tienes",
+        "lastChanged": "Último cambio",
+        "update": "Actualizar",
+        "dataPrivacy": "Datos y Privacidad",
+        "readPrivacy": "Leer Política de Privacidad",
+        "readTerms": "Leer Términos de Servicio"
+    },
+    "language": {
+        "selectLanguage": "Seleccionar Idioma",
+        "language": "Idioma"
+    }
+}

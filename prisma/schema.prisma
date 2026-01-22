@@ -1,0 +1,187 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// --------------------------------------
+// 1. Authentication & Users
+// --------------------------------------
+
+model User {
+  id            String    @id @default(cuid())
+  name          String?
+  email         String?   @unique
+  emailVerified DateTime?
+  image         String?
+  password      String?   // Hashed password for Credentials provider
+  role          String    @default("USER")
+  accounts      Account[]
+  sessions      Session[]
+  
+  // Profile Extensions
+  bio           String?
+  twitterHandle String?
+  
+  // Relations
+  shows         Show[]    // Hosts manage shows
+  orders        Order[]
+
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+}
+
+
+model Account {
+  id                 String  @id @default(cuid())
+  userId             String
+  type               String
+  provider           String
+  providerAccountId  String
+  refresh_token      String?
+  access_token       String?
+  expires_at         Int?
+  token_type         String?
+  scope              String?
+  id_token           String?
+  session_state      String?
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([provider, providerAccountId])
+}
+
+model Session {
+  id           String   @id @default(cuid())
+  sessionToken String   @unique
+  userId       String
+  expires      DateTime
+  user         User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+model VerificationToken {
+  identifier String
+  token      String   @unique
+  expires    DateTime
+
+  @@unique([identifier, token])
+}
+
+// --------------------------------------
+// 2. CMS: Content Management
+// --------------------------------------
+
+model Show {
+  id          String    @id @default(cuid())
+  title       String
+  description String
+  coverImage  String?
+  schedule    String?   // e.g. "Mon 10:00 AM"
+  
+  featured    Boolean   @default(false)
+  
+  hostId      String
+  host        User      @relation(fields: [hostId], references: [id])
+  
+  episodes    Episode[]
+  
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+}
+
+model Episode {
+  id          String   @id @default(cuid())
+  title       String
+  description String?
+  audioUrl    String
+  image       String?
+  duration    Int?     // Duration in seconds
+  releaseDate DateTime @default(now())
+  
+  showId      String
+  show        Show     @relation(fields: [showId], references: [id], onDelete: Cascade)
+}
+
+model Event {
+  id          String   @id @default(cuid())
+  title       String
+  date        DateTime
+  location    String
+  description String
+  image       String?
+  ticketLink  String?
+  
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+// --------------------------------------
+// 3. E-Commerce
+// --------------------------------------
+
+model Product {
+  id          String   @id @default(cuid())
+  name        String
+  description String
+  price       Float
+  image       String?
+  category    String   // Apparel, Accessories, Digital
+  stock       Int      @default(0)
+  
+  orderItems  OrderItem[]
+  
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+model Order {
+  id        String      @id @default(cuid())
+  userId    String
+  user      User        @relation(fields: [userId], references: [id])
+  status    String      @default("PENDING")
+  total     Float
+  
+  items     OrderItem[]
+  
+  createdAt DateTime    @default(now())
+}
+
+
+model OrderItem {
+  id        String  @id @default(cuid())
+  orderId   String
+  order     Order   @relation(fields: [orderId], references: [id])
+  productId String
+  product   Product @relation(fields: [productId], references: [id])
+  quantity  Int
+  price     Float   // Price at time of purchase
+}
+
+// --------------------------------------
+// 4. Advertising
+// --------------------------------------
+
+model Advertisement {
+  id          String   @id @default(cuid())
+  title       String   // Advertiser name or ad title
+  type        String   @default("image") // "image" or "video"
+  image       String?  // Ad image/banner (for image ads)
+  videoUrl    String?  // Video file path (for video ads)
+  link        String?  // Click-through URL
+  placement   String   // "homepage", "sidebar", "banner", "between-content"
+  position    Int      @default(0) // Order/priority for same placement
+  active      Boolean  @default(true)
+  startDate   DateTime? // When ad should start showing
+  endDate     DateTime? // When ad should stop showing
+  clicks      Int      @default(0) // Track clicks
+  impressions Int     @default(0) // Track views
+  
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
