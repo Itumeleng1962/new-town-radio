@@ -198,7 +198,7 @@ export default function AdminDashboardClient({ users, shows, events, products, e
                                                 <label className="text-xs font-bold text-neutral-400">Day</label>
                                                 <select name="day" required className="w-full bg-neutral-900 border border-white/10 rounded p-2 text-white">
                                                     <option value="">Select day</option>
-                                                    {["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"].map((d) => (
+                                                    {["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"].map((d) => (
                                                         <option key={d} value={d}>{d}</option>
                                                     ))}
                                                 </select>

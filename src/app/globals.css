@@ -151,11 +151,6 @@ html {
 }
 
 /* Make date/time picker icons white on dark backgrounds */
-input[type="date"],
-input[type="time"] {
-  color-scheme: dark;
-}
-
 input[type="date"]::-webkit-calendar-picker-indicator,
 input[type="time"]::-webkit-calendar-picker-indicator {
   filter: invert(1);

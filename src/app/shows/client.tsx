@@ -86,7 +86,7 @@ export default function ShowsPage({ initialShows }: ShowsClientProps) {
                                 <h3 className="text-2xl font-bold text-white mb-1">{show.title}</h3>
                                 <p className="text-neutral-400 text-sm mb-3">{t('shows.card.with')} {show.host?.name || t('shows.tba')}</p>
                                 <div className="flex items-center gap-2 text-xs text-neutral-500">
-                                    <Clock size={14} />
+                                    <Clock size={14} className="text-white" />
                                     {show.schedule || t('shows.tba')}
                                 </div>
                                 <div className="flex items-center gap-2 opacity-0 group-hover:opacity-100 transition-opacity transform translate-y-2 group-hover:translate-y-0 mt-4">

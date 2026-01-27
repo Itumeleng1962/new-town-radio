@@ -31,7 +31,7 @@ export default function EventsContent({ events }: EventsContentProps) {
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                     {events.length === 0 ? (
                         <div className="col-span-3 text-center py-20 bg-neutral-800 rounded-xl border border-white/10">
-                            <Calendar className="w-12 h-12 text-neutral-600 mx-auto mb-4" />
+                            <Calendar className="w-12 h-12 text-white mx-auto mb-4" />
                             <h3 className="text-xl font-bold text-white mb-2">{t('events.noEventsTitle')}</h3>
                             <p className="text-neutral-400">{t('events.noEventsMessage')}</p>
                         </div>
@@ -40,7 +40,7 @@ export default function EventsContent({ events }: EventsContentProps) {
                             <div key={event.id} className="group bg-black border border-white/10 rounded-xl overflow-hidden hover:border-brand-lemon transition-colors">
                                 <div className="relative h-48 w-full bg-neutral-800">
                                     {/* Fallback image or dynamic if available */}
-                                    <div className="absolute inset-0 flex items-center justify-center text-neutral-600">
+                                    <div className="absolute inset-0 flex items-center justify-center text-white">
                                         <Calendar size={48} />
                                     </div>
                                     {/* <Image 
