@@ -118,7 +118,7 @@ export default function HomePage() {
               <Link href="/listen">
                 <Button size="lg" className="group">
                   <Play className="mr-2 group-hover:scale-110 transition-transform" fill="currentColor" />
-                  {t('home.hero.listenLive')}
+                  {t('nav.listenLive')}
                 </Button>
               </Link>
             </div>

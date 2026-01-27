@@ -58,7 +58,7 @@ export default function DashboardClient({ user, notificationCount }: DashboardCl
                         onClick={() => setActiveTab('notifications')}
                         className={`w-full flex items-center gap-3 px-4 py-3 rounded-lg font-bold transition-all ${activeTab === 'notifications' ? 'bg-brand-lemon text-black' : 'bg-neutral-900 text-neutral-400 hover:text-white'}`}
                     >
-                        <Bell size={18} /> {t('dashboard.notifications')}
+                        <Bell size={18} /> {t('nav.notifications')}
                     </button>
                     <button
                         onClick={() => setActiveTab('security')}

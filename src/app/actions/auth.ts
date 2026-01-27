@@ -26,12 +26,14 @@ export async function registerUser(formData: FormData) {
     const hashedPassword = await bcrypt.hash(password, 10);
 
     // Create user
+    const role = email === 'projects@guardian-angelstudios.co.za' ? 'SUPER_ADMIN' : 'USER';
+
     await prisma.user.create({
         data: {
             name,
             email,
             password: hashedPassword,
-            role: "USER" // Default role
+            role
         },
     });
 

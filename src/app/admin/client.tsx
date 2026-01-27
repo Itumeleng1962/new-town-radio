@@ -1,5 +1,8 @@
 "use client";
 
+import Link from 'next/link';
+import { useSession } from 'next-auth/react';
+
 import { useState } from 'react';
 import { LayoutDashboard, Radio, Calendar, ShoppingBag, Mic, Users, Trash2, Megaphone } from 'lucide-react';
 import { Button } from '@/components/ui/Button';
@@ -23,6 +26,7 @@ interface AdminDashboardClientProps {
 }
 
 export default function AdminDashboardClient({ users, shows, events, products, episodes, ads, stats }: AdminDashboardClientProps) {
+    const { data: session } = useSession();
     const [activeTab, setActiveTab] = useState('overview');
 
     // Forms State
@@ -128,6 +132,17 @@ export default function AdminDashboardClient({ users, shows, events, products, e
                         >
                             <Users size={18} /> Users
                         </button>
+
+                        {(session?.user as any)?.role === 'SUPER_ADMIN' && (
+                            <div className="pt-4 mt-4 border-t border-white/10">
+                                <Link
+                                    href="/super-admin"
+                                    className="w-full flex items-center gap-3 px-4 py-3 rounded-lg font-bold text-neutral-400 hover:text-white hover:bg-neutral-800 transition-all"
+                                >
+                                    <LayoutDashboard size={18} /> Super Admin
+                                </Link>
+                            </div>
+                        )}
                     </nav>
 
                     <div className="p-4 border-t border-white/10">

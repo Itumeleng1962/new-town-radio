@@ -32,6 +32,7 @@ model User {
   // Relations
   shows         Show[]    // Hosts manage shows
   orders        Order[]
+  auditLogs     AuditLog[]
 
   createdAt     DateTime  @default(now())
   updatedAt     DateTime  @updatedAt
@@ -184,4 +185,32 @@ model Advertisement {
   
   createdAt   DateTime @default(now())
   updatedAt   DateTime @updatedAt
+}
+
+// --------------------------------------
+// 5. System & Auditing
+// --------------------------------------
+
+model AuditLog {
+  id        String   @id @default(cuid())
+  action    String   // e.g., "USER_PROMOTED", "POST_DELETED"
+  details   String?
+  userId    String
+  user      User     @relation(fields: [userId], references: [id])
+  createdAt DateTime @default(now())
+}
+
+model SystemSetting {
+  key   String @id
+  value String
+}
+
+model Revenue {
+  id          String   @id @default(cuid())
+  source      String   // "PRODUCT_SALE", "AD_REVENUE", "SPONSORSHIP", "OTHER"
+  amount      Float
+  description String?
+  orderId     String?  // Link to order if applicable
+  date        DateTime @default(now())
+  createdAt   DateTime @default(now())
 }

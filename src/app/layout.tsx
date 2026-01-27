@@ -8,22 +8,25 @@ import { LanguageProvider } from "@/lib/context/LanguageContext";
 import { CartDrawer } from "@/components/shop/CartDrawer";
 import { Toaster } from "sonner";
 import { AuthProvider } from "@/components/providers/AuthProvider";
+import { auth } from "@/auth";
 
 export const metadata: Metadata = {
   title: "Newtown Radio | Sound of the City",
   description: "Live 24/7 underground culture, music, and community.",
 };
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  const session = await auth();
+
   return (
     <html lang="en" className="scroll-smooth">
       <body className="antialiased min-h-screen flex flex-col bg-brand-gray text-white" suppressHydrationWarning>
         <LanguageProvider>
-          <AuthProvider>
+          <AuthProvider session={session}>
             <CartProvider>
               <Navbar />
               <CartDrawer />
